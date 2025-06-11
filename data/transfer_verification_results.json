@@ -1,0 +1,4772 @@
+[
+  {
+    "address": "0x0db2cd0b5bac9b66fa59d387d4ea89efb8e8a0f0",
+    "startBalance": "49740769151527736193",
+    "expectedAmount": "30123000000000000000000",
+    "endBalance": "30172740769151527736193",
+    "calculatedEnd": "30172740769151527736193",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x6a07bca6427a4ff1bdf2e4fbea5c43b846acce36",
+    "startBalance": "745076855243",
+    "expectedAmount": "26696400000000000000000",
+    "endBalance": "26696400000745076855243",
+    "calculatedEnd": "26696400000745076855243",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x7982eb931808561596a121b9e379cd81af05fd8b",
+    "startBalance": "119144333841871",
+    "expectedAmount": "25418700000000000000000",
+    "endBalance": "25418700119144333841871",
+    "calculatedEnd": "25418700119144333841871",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xa1c76e639fda30506c3bd9fe8c8bbd7ef332defb",
+    "startBalance": "616706093260330828441",
+    "expectedAmount": "22382800000000000000000",
+    "endBalance": "22999506093260330828441",
+    "calculatedEnd": "22999506093260330828441",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x52b1ff9d3f19eacb32181b0e4c5bfc7c10d2ad6b",
+    "startBalance": "4770152241600863783",
+    "expectedAmount": "21733100000000000000000",
+    "endBalance": "21737870152241600863783",
+    "calculatedEnd": "21737870152241600863783",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x817a322d652ad609986c56eebd3375fb9f0462a2",
+    "startBalance": "0",
+    "expectedAmount": "17169000000000000000000",
+    "endBalance": "17169000000000000000000",
+    "calculatedEnd": "17169000000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x8cb1f920e437791a97443cc81b62476120d30e40",
+    "startBalance": "1340221721548072672620",
+    "expectedAmount": "11553500000000000000000",
+    "endBalance": "12893721721548072672620",
+    "calculatedEnd": "12893721721548072672620",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xa173f51ea0a5e162a60e236fdebe54a4afa2a502",
+    "startBalance": "0",
+    "expectedAmount": "11358700000000000000000",
+    "endBalance": "11358700000000000000000",
+    "calculatedEnd": "11358700000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x4b31cd732873becb729919c2aa83737d91997f28",
+    "startBalance": "0",
+    "expectedAmount": "11109300000000000000000",
+    "endBalance": "11109300000000000000000",
+    "calculatedEnd": "11109300000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xb92c55db9f5edd46423980fbe7fdb9948faf5b57",
+    "startBalance": "3545030281930221626848",
+    "expectedAmount": "8554500000000000000000",
+    "endBalance": "12099530281930221626848",
+    "calculatedEnd": "12099530281930221626848",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xc12f2fef3a86f7f3bdd994437bd66a957a287512",
+    "startBalance": "0",
+    "expectedAmount": "8535600000000000000000",
+    "endBalance": "8535600000000000000000",
+    "calculatedEnd": "8535600000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x190a33f3370b2ea46645ba98965e79c2046e7359",
+    "startBalance": "141224739944395785",
+    "expectedAmount": "7985600000000000000000",
+    "endBalance": "7985741224739944395785",
+    "calculatedEnd": "7985741224739944395785",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x85def423aa19239cae527963fb131a14e5cb4bba",
+    "startBalance": "0",
+    "expectedAmount": "7681400000000000000000",
+    "endBalance": "7681400000000000000000",
+    "calculatedEnd": "7681400000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xfb239bb8fb125b18ca6ea08adf2656fa19593629",
+    "startBalance": "35220183532331580295602",
+    "expectedAmount": "7616100000000000000000",
+    "endBalance": "42836283532331580295602",
+    "calculatedEnd": "42836283532331580295602",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x2758f6929c3a480b4405799297c9825c663c92b5",
+    "startBalance": "0",
+    "expectedAmount": "7027300000000000000000",
+    "endBalance": "7027300000000000000000",
+    "calculatedEnd": "7027300000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xc7fc0a8e3aa58e235ae31002d81fa61371618a18",
+    "startBalance": "207354226828022898313",
+    "expectedAmount": "6968800000000000000000",
+    "endBalance": "7176154226828022898313",
+    "calculatedEnd": "7176154226828022898313",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xaf8c793072da847cd08fb58d660a358bbe09c282",
+    "startBalance": "0",
+    "expectedAmount": "6707700000000000000000",
+    "endBalance": "6707700000000000000000",
+    "calculatedEnd": "6707700000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x1d656fbff9e11e74c160d69573b936f7186c161b",
+    "startBalance": "0",
+    "expectedAmount": "4655100000000000000000",
+    "endBalance": "4655100000000000000000",
+    "calculatedEnd": "4655100000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xf3de96dd26847d877960736e426e2d852b6765f4",
+    "startBalance": "42411987149891964974",
+    "expectedAmount": "4625700000000000000000",
+    "endBalance": "4668111987149891964974",
+    "calculatedEnd": "4668111987149891964974",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x3b3502c0f68bc39012cc256d74fb8a85d9944453",
+    "startBalance": "0",
+    "expectedAmount": "4534800000000000000000",
+    "endBalance": "4534800000000000000000",
+    "calculatedEnd": "4534800000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x7abb334fd82456f77216da59271e6c462cb7c5e4",
+    "startBalance": "14498487772254568562",
+    "expectedAmount": "4482700000000000000000",
+    "endBalance": "4497198487772254568562",
+    "calculatedEnd": "4497198487772254568562",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xc593bb4333dac717aa202e5b9fe46a7679ecfa59",
+    "startBalance": "97976923211084832025",
+    "expectedAmount": "4329300000000000000000",
+    "endBalance": "4427276923211084832025",
+    "calculatedEnd": "4427276923211084832025",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x193630ade7221497d27041a23dfde7a44a79757b",
+    "startBalance": "552814359166884657159",
+    "expectedAmount": "4303800000000000000000",
+    "endBalance": "4856614359166884657159",
+    "calculatedEnd": "4856614359166884657159",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x096f92f264faf13643d887f9d556f13813a5a97a",
+    "startBalance": "210093056555579905811",
+    "expectedAmount": "3900000000000000000000",
+    "endBalance": "4110093056555579905811",
+    "calculatedEnd": "4110093056555579905811",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x8af8a14e68998c49cf083fb60a4b415afe05b04b",
+    "startBalance": "80193398799456421674",
+    "expectedAmount": "3896100000000000000000",
+    "endBalance": "3976293398799456421674",
+    "calculatedEnd": "3976293398799456421674",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xf00d7d44932fe8bf93994534d29fcadbd9539d21",
+    "startBalance": "197890663849060313307",
+    "expectedAmount": "3878300000000000000000",
+    "endBalance": "4076190663849060313307",
+    "calculatedEnd": "4076190663849060313307",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x4d9e63d89d32dae780d5790330d34eb80a70ef49",
+    "startBalance": "206255191601755360379",
+    "expectedAmount": "3781100000000000000000",
+    "endBalance": "3987355191601755360379",
+    "calculatedEnd": "3987355191601755360379",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x12f72cfd58de931834cbd39177037e75ac890d85",
+    "startBalance": "86390852842517507190",
+    "expectedAmount": "3614200000000000000000",
+    "endBalance": "3700590852842517507190",
+    "calculatedEnd": "3700590852842517507190",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xd3f17fdfff456098bb017734a1ede906ebf3ecf6",
+    "startBalance": "182941088064034385057",
+    "expectedAmount": "3585300000000000000000",
+    "endBalance": "3768241088064034385057",
+    "calculatedEnd": "3768241088064034385057",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xc2fbc4477aa0eae71ed2005bbf80d08c7a9d22ea",
+    "startBalance": "308782046067796306886",
+    "expectedAmount": "3545200000000000000000",
+    "endBalance": "3853982046067796306886",
+    "calculatedEnd": "3853982046067796306886",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xd6946a5eee09fd167b9920d5647253ace122e9cb",
+    "startBalance": "10303750611067980004",
+    "expectedAmount": "3518900000000000000000",
+    "endBalance": "3529203750611067980004",
+    "calculatedEnd": "3529203750611067980004",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x05c23de46772ed5a79364f458953d2cb25384bbe",
+    "startBalance": "0",
+    "expectedAmount": "3474200000000000000000",
+    "endBalance": "3474200000000000000000",
+    "calculatedEnd": "3474200000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xcaaa1783c795a174bef36fa915f656bb479a0cd8",
+    "startBalance": "1000000000000000000000",
+    "expectedAmount": "3110500000000000000000",
+    "endBalance": "4110500000000000000000",
+    "calculatedEnd": "4110500000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x8ad8e55a7834f90a37ab3cab9144c8e5e89d0878",
+    "startBalance": "0",
+    "expectedAmount": "3035900000000000000000",
+    "endBalance": "3035900000000000000000",
+    "calculatedEnd": "3035900000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x77059a202bffa20847f924bac7c94fb386247147",
+    "startBalance": "0",
+    "expectedAmount": "2776900000000000000000",
+    "endBalance": "2776900000000000000000",
+    "calculatedEnd": "2776900000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x98c9eb634e8f4892c52e2a4a3d10ca86a410c7d3",
+    "startBalance": "0",
+    "expectedAmount": "2757500000000000000000",
+    "endBalance": "2757500000000000000000",
+    "calculatedEnd": "2757500000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xf9ab14db9143c92123384bdaf2ebf5f1ffe3c3bb",
+    "startBalance": "304998909558278090496",
+    "expectedAmount": "2647400000000000000000",
+    "endBalance": "2952398909558278090496",
+    "calculatedEnd": "2952398909558278090496",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x689dfa80839f029a6e8ba6eecac87156861e0ae8",
+    "startBalance": "0",
+    "expectedAmount": "2483400000000000000000",
+    "endBalance": "2483400000000000000000",
+    "calculatedEnd": "2483400000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x08bd0ee80fce4fd77056e06017fb5c33dc4a666c",
+    "startBalance": "1217583082293129386368",
+    "expectedAmount": "2394600000000000000000",
+    "endBalance": "3612183082293129386368",
+    "calculatedEnd": "3612183082293129386368",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x3f09cb22f148384d1e0ebae560c6828a3c154d51",
+    "startBalance": "4716520882387899282",
+    "expectedAmount": "2391600000000000000000",
+    "endBalance": "2396316520882387899282",
+    "calculatedEnd": "2396316520882387899282",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x3b9e7c4022c619a5d011a375ae1b75073d1c6a74",
+    "startBalance": "0",
+    "expectedAmount": "2367200000000000000000",
+    "endBalance": "2367200000000000000000",
+    "calculatedEnd": "2367200000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x314ff503589562710cf613acd03e1ea3e7060a0a",
+    "startBalance": "0",
+    "expectedAmount": "2142400000000000000000",
+    "endBalance": "2142400000000000000000",
+    "calculatedEnd": "2142400000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xa0de310a415f8b233714a0292db75ee7fe940daf",
+    "startBalance": "70181122031877311607",
+    "expectedAmount": "2134600000000000000000",
+    "endBalance": "2204781122031877311607",
+    "calculatedEnd": "2204781122031877311607",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xf990ce93c674e610939789f4ec24a9c08ad8c042",
+    "startBalance": "22776581446184996938",
+    "expectedAmount": "2121900000000000000000",
+    "endBalance": "2144676581446184996938",
+    "calculatedEnd": "2144676581446184996938",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x1af21ccab4caee0881b3d87604f60af4584dbeb4",
+    "startBalance": "1600051239036708177",
+    "expectedAmount": "2110300000000000000000",
+    "endBalance": "2111900051239036708177",
+    "calculatedEnd": "2111900051239036708177",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x26b2f9499cfa831b53e9d856e3ff8fc8c6083cca",
+    "startBalance": "463384986406380225",
+    "expectedAmount": "2109200000000000000000",
+    "endBalance": "2109663384986406380225",
+    "calculatedEnd": "2109663384986406380225",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x3e10553fff3a5ac28b9a7e7f4afafb4c1d6efc0b",
+    "startBalance": "358420552504338562079",
+    "expectedAmount": "2031100000000000000000",
+    "endBalance": "2389520552504338562079",
+    "calculatedEnd": "2389520552504338562079",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x52bb4d1121ba28e7cac4b3c994ccbfe8ed1174fb",
+    "startBalance": "0",
+    "expectedAmount": "2004300000000000000000",
+    "endBalance": "2004300000000000000000",
+    "calculatedEnd": "2004300000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x2ef467742a91bba3048966d033656ea5035499a6",
+    "startBalance": "1550689839202148179546",
+    "expectedAmount": "1920300000000000000000",
+    "endBalance": "3470989839202148179546",
+    "calculatedEnd": "3470989839202148179546",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x14710c4fd97c5abd2d591c500f6099a4a42b5dae",
+    "startBalance": "444776575037007262608",
+    "expectedAmount": "1913800000000000000000",
+    "endBalance": "2358576575037007262608",
+    "calculatedEnd": "2358576575037007262608",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xb87073e70e0c4d6ee228d8a920ebdf5500c3a89e",
+    "startBalance": "31496241601468005212",
+    "expectedAmount": "1857800000000000000000",
+    "endBalance": "1889296241601468005212",
+    "calculatedEnd": "1889296241601468005212",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x8ef6d987f5c47804e64403d942e475f63d84b5ff",
+    "startBalance": "0",
+    "expectedAmount": "1826000000000000000000",
+    "endBalance": "1826000000000000000000",
+    "calculatedEnd": "1826000000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xf4a40f5ed0941e42b7c79b99cdff5bc4d329d1bd",
+    "startBalance": "141036356719103359510",
+    "expectedAmount": "1808100000000000000000",
+    "endBalance": "1949136356719103359510",
+    "calculatedEnd": "1949136356719103359510",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xfdbf748009ce0663bf95f02e0b3a60a7aabc954a",
+    "startBalance": "852162505345457376",
+    "expectedAmount": "1797800000000000000000",
+    "endBalance": "1798652162505345457376",
+    "calculatedEnd": "1798652162505345457376",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xd192961f7aa7f78842b33ad01e4c8178a4e6c7f7",
+    "startBalance": "4721702755007589828",
+    "expectedAmount": "1768000000000000000000",
+    "endBalance": "1772721702755007589828",
+    "calculatedEnd": "1772721702755007589828",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x3e6216389b95053e7fbfed66fccf8c9df732f541",
+    "startBalance": "0",
+    "expectedAmount": "1762300000000000000000",
+    "endBalance": "1762300000000000000000",
+    "calculatedEnd": "1762300000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xb1491ef1f40f03c04f6fb737c28a566652bcfaa0",
+    "startBalance": "11976198329574955068",
+    "expectedAmount": "1756800000000000000000",
+    "endBalance": "1768776198329574955068",
+    "calculatedEnd": "1768776198329574955068",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x327140ff891b74bd65e4a0e4f601279ac0bd6a77",
+    "startBalance": "0",
+    "expectedAmount": "1730500000000000000000",
+    "endBalance": "1730500000000000000000",
+    "calculatedEnd": "1730500000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xd603250b40a29c9e63fc6f7164acfad46279b84f",
+    "startBalance": "59000000000000000000",
+    "expectedAmount": "1695000000000000000000",
+    "endBalance": "1754000000000000000000",
+    "calculatedEnd": "1754000000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x78508554d0fb1653e40bfe858d260659370708a2",
+    "startBalance": "35115229810984237890",
+    "expectedAmount": "1666600000000000000000",
+    "endBalance": "1701715229810984237890",
+    "calculatedEnd": "1701715229810984237890",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x42a9cf494df977bbb90a1a45233df6d3794a4894",
+    "startBalance": "47741775047012779701",
+    "expectedAmount": "1654000000000000000000",
+    "endBalance": "1701741775047012779701",
+    "calculatedEnd": "1701741775047012779701",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x0b9d68ae51bbe4d370bd0c917c5483342f37af00",
+    "startBalance": "2266061759379669220557",
+    "expectedAmount": "1534100000000000000000",
+    "endBalance": "3800161759379669220557",
+    "calculatedEnd": "3800161759379669220557",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xba72c5dfa14510af0eddf41aefa83e5f5a7594f9",
+    "startBalance": "238494628954640216596",
+    "expectedAmount": "1533900000000000000000",
+    "endBalance": "1772394628954640216596",
+    "calculatedEnd": "1772394628954640216596",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x5e7dbb835decd32bd1f265f3caa0444982d0ec3e",
+    "startBalance": "558457601652",
+    "expectedAmount": "1517700000000000000000",
+    "endBalance": "1517700000558457601652",
+    "calculatedEnd": "1517700000558457601652",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xf47f7501a5a5221f5e4d7c6078e377d5bab08277",
+    "startBalance": "5080376806616736858",
+    "expectedAmount": "1515900000000000000000",
+    "endBalance": "1520980376806616736858",
+    "calculatedEnd": "1520980376806616736858",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x382daef9d320cdc147467d6493d5f9510860847e",
+    "startBalance": "0",
+    "expectedAmount": "1466200000000000000000",
+    "endBalance": "1466200000000000000000",
+    "calculatedEnd": "1466200000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xd401053b43242147e8742847c62d28adf2b493da",
+    "startBalance": "4318505750011196307",
+    "expectedAmount": "1448700000000000000000",
+    "endBalance": "1453018505750011196307",
+    "calculatedEnd": "1453018505750011196307",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x8642afe3f25ec7bd8caf73418b23b0ef26c4d9c0",
+    "startBalance": "535127656482004632000",
+    "expectedAmount": "1400400000000000000000",
+    "endBalance": "1935527656482004632000",
+    "calculatedEnd": "1935527656482004632000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x3bbc2788ded85243f583090862260cffe2b9c796",
+    "startBalance": "22320000000000000000",
+    "expectedAmount": "1394200000000000000000",
+    "endBalance": "1416520000000000000000",
+    "calculatedEnd": "1416520000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xddda78690198398ea24c32faba940ed9582d3681",
+    "startBalance": "16733889782278513979",
+    "expectedAmount": "1390100000000000000000",
+    "endBalance": "1406833889782278513979",
+    "calculatedEnd": "1406833889782278513979",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x91dd8b49d4d6a1198d62e7042342d1164018f534",
+    "startBalance": "21444419115149538525",
+    "expectedAmount": "1373600000000000000000",
+    "endBalance": "1395044419115149538525",
+    "calculatedEnd": "1395044419115149538525",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x00a2923e2de2e77402b845b250fae9123b2b4ab9",
+    "startBalance": "14900772417264932471",
+    "expectedAmount": "1339700000000000000000",
+    "endBalance": "1354600772417264932471",
+    "calculatedEnd": "1354600772417264932471",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x58d8d2d5d137f390fdea0119536d5e0b97148dbf",
+    "startBalance": "4339686622386928825",
+    "expectedAmount": "1334400000000000000000",
+    "endBalance": "1338739686622386928825",
+    "calculatedEnd": "1338739686622386928825",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xc42c0859677c10c98b982a57d0cd92e27855eb32",
+    "startBalance": "20589061538301884801",
+    "expectedAmount": "1322200000000000000000",
+    "endBalance": "1342789061538301884801",
+    "calculatedEnd": "1342789061538301884801",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x155a53d0c1b8b4aa0ae77116f968bca8c8e7230d",
+    "startBalance": "38675679514034662299",
+    "expectedAmount": "1292400000000000000000",
+    "endBalance": "1331075679514034662299",
+    "calculatedEnd": "1331075679514034662299",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x0ed61a1952f34e762f16a14af603e9832c5af767",
+    "startBalance": "0",
+    "expectedAmount": "1259000000000000000000",
+    "endBalance": "1259000000000000000000",
+    "calculatedEnd": "1259000000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xc2337381a13717a49f70c50c90172b7e173f2ecc",
+    "startBalance": "0",
+    "expectedAmount": "1257900000000000000000",
+    "endBalance": "1257900000000000000000",
+    "calculatedEnd": "1257900000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xfc4d95d702a5a4ee55e608620a3c73349bb48198",
+    "startBalance": "10121491516876355684",
+    "expectedAmount": "1249000000000000000000",
+    "endBalance": "1259121491516876355684",
+    "calculatedEnd": "1259121491516876355684",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xf91f471dfe7d121d4ebc096d648083d5f385d317",
+    "startBalance": "3699195974507848820875",
+    "expectedAmount": "1239900000000000000000",
+    "endBalance": "4939095974507848820875",
+    "calculatedEnd": "4939095974507848820875",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x681f956778d8c208c330e233c87bb57b2c0d4708",
+    "startBalance": "0",
+    "expectedAmount": "1198400000000000000000",
+    "endBalance": "1198400000000000000000",
+    "calculatedEnd": "1198400000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x87b4a072ceb874af9a50608121a9d2e34f44dfd5",
+    "startBalance": "0",
+    "expectedAmount": "1197300000000000000000",
+    "endBalance": "1197300000000000000000",
+    "calculatedEnd": "1197300000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xe7063dc6900eacbff63a78ab3b9252bb1383e43d",
+    "startBalance": "606496113860989970278",
+    "expectedAmount": "1194700000000000000000",
+    "endBalance": "1801196113860989970278",
+    "calculatedEnd": "1801196113860989970278",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x4bcaa6d6d8334f84520eea2db79f1a6b0522e302",
+    "startBalance": "28532526533232558246",
+    "expectedAmount": "1158800000000000000000",
+    "endBalance": "1187332526533232558246",
+    "calculatedEnd": "1187332526533232558246",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x88ca0d90d4da5b5a3380a2d2311b09f31a87d97c",
+    "startBalance": "101837479968416738508",
+    "expectedAmount": "1134800000000000000000",
+    "endBalance": "1236637479968416738508",
+    "calculatedEnd": "1236637479968416738508",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x72a262df73723b4e779157423103e8f2bbca149a",
+    "startBalance": "18614719282161855775",
+    "expectedAmount": "1134700000000000000000",
+    "endBalance": "1153314719282161855775",
+    "calculatedEnd": "1153314719282161855775",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x06a1e61244e6a55fd52375b3fab913af9249952b",
+    "startBalance": "0",
+    "expectedAmount": "1128600000000000000000",
+    "endBalance": "1128600000000000000000",
+    "calculatedEnd": "1128600000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xaf6bb82c5de6da6eb2a6885b3ae36bb2ef3da857",
+    "startBalance": "1000000000000000000",
+    "expectedAmount": "1127000000000000000000",
+    "endBalance": "1128000000000000000000",
+    "calculatedEnd": "1128000000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x7dc3e945238fdb44936eebe654422a83bdf5d9ff",
+    "startBalance": "1315327945781081574048",
+    "expectedAmount": "1109100000000000000000",
+    "endBalance": "2424427945781081574048",
+    "calculatedEnd": "2424427945781081574048",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xe2d15e539a4a5775591594594bb3ff98bd3a62d2",
+    "startBalance": "87008052103700738126",
+    "expectedAmount": "1106000000000000000000",
+    "endBalance": "1193008052103700738126",
+    "calculatedEnd": "1193008052103700738126",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x2000426e1bc71d1690f25ce7fa03022256789f64",
+    "startBalance": "0",
+    "expectedAmount": "1060000000000000000000",
+    "endBalance": "1060000000000000000000",
+    "calculatedEnd": "1060000000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x514e84986c09ca52661eee5ec8a3e6b645c54388",
+    "startBalance": "1910678683308855433",
+    "expectedAmount": "1039900000000000000000",
+    "endBalance": "1041810678683308855433",
+    "calculatedEnd": "1041810678683308855433",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x3a3e1c8bfbd6616a9819b4591f297d1a431628f3",
+    "startBalance": "44058339725144555493",
+    "expectedAmount": "989900000000000000000",
+    "endBalance": "1033958339725144555493",
+    "calculatedEnd": "1033958339725144555493",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xb63674bc975b96c4a89dc0661d8affbc9413c131",
+    "startBalance": "144417453335639799167",
+    "expectedAmount": "978800000000000000000",
+    "endBalance": "1123217453335639799167",
+    "calculatedEnd": "1123217453335639799167",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x33de82c19e3758c0c4e5d14d9bcf9cd7da6c8fff",
+    "startBalance": "0",
+    "expectedAmount": "978300000000000000000",
+    "endBalance": "978300000000000000000",
+    "calculatedEnd": "978300000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x4df320d25e8df805543a0f74b88ce2d2f6d67c90",
+    "startBalance": "0",
+    "expectedAmount": "975500000000000000000",
+    "endBalance": "975500000000000000000",
+    "calculatedEnd": "975500000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xcae9babe09a7e2404ad2c237f04de006778d8e2d",
+    "startBalance": "1180837123300910666",
+    "expectedAmount": "969300000000000000000",
+    "endBalance": "970480837123300910666",
+    "calculatedEnd": "970480837123300910666",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xdec50a97ede3c99f98d257868cb1d5bf4498576a",
+    "startBalance": "122051488484376808",
+    "expectedAmount": "949200000000000000000",
+    "endBalance": "949322051488484376808",
+    "calculatedEnd": "949322051488484376808",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x68db4fc7c96a05afb96d37a82dd767ba081c2ec3",
+    "startBalance": "185258341155052884954",
+    "expectedAmount": "943900000000000000000",
+    "endBalance": "1129158341155052884954",
+    "calculatedEnd": "1129158341155052884954",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x4f80b5c475fced34fc9a07ffccf39e1adc1406bf",
+    "startBalance": "197431503987609816425",
+    "expectedAmount": "925500000000000000000",
+    "endBalance": "1122931503987609816425",
+    "calculatedEnd": "1122931503987609816425",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x60ab4608ba4ce9cab603205b5dc44b4b792e0037",
+    "startBalance": "0",
+    "expectedAmount": "922500000000000000000",
+    "endBalance": "922500000000000000000",
+    "calculatedEnd": "922500000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xd3a5a3b167ff2eab162e1e8a69b5cdbb9c68ba3e",
+    "startBalance": "23546141100796728704",
+    "expectedAmount": "918400000000000000000",
+    "endBalance": "941946141100796728704",
+    "calculatedEnd": "941946141100796728704",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x3a2c50d6892f53d55372857ee9939202699de928",
+    "startBalance": "103274128126623807199",
+    "expectedAmount": "875400000000000000000",
+    "endBalance": "978674128126623807199",
+    "calculatedEnd": "978674128126623807199",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x4732efc0bb6ad5f6ae73837f3997d5d94ae87cfa",
+    "startBalance": "18661105464595707077",
+    "expectedAmount": "857800000000000000000",
+    "endBalance": "876461105464595707077",
+    "calculatedEnd": "876461105464595707077",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x8d560b3ba4d4cb91f7e1ea69ce0d652893799ead",
+    "startBalance": "0",
+    "expectedAmount": "813300000000000000000",
+    "endBalance": "813300000000000000000",
+    "calculatedEnd": "813300000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x9c696277d2432405c9d2c03039116b8f9376ff94",
+    "startBalance": "1060685828779077580",
+    "expectedAmount": "796200000000000000000",
+    "endBalance": "797260685828779077580",
+    "calculatedEnd": "797260685828779077580",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x761622bfbef37d6d1536d8b2505d84714a5c7f97",
+    "startBalance": "82576510183725165099",
+    "expectedAmount": "782700000000000000000",
+    "endBalance": "865276510183725165099",
+    "calculatedEnd": "865276510183725165099",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x6cc390c93fcb97a4ec9b302ba1a275be88f7a431",
+    "startBalance": "1125607933842456022",
+    "expectedAmount": "777500000000000000000",
+    "endBalance": "778625607933842456022",
+    "calculatedEnd": "778625607933842456022",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x4ce608e087f836601a1170bd958aed8104665198",
+    "startBalance": "1918012470906340581",
+    "expectedAmount": "767600000000000000000",
+    "endBalance": "769518012470906340581",
+    "calculatedEnd": "769518012470906340581",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x58a10b05447c21a3866868aba9ea644319ea50d8",
+    "startBalance": "0",
+    "expectedAmount": "757100000000000000000",
+    "endBalance": "757100000000000000000",
+    "calculatedEnd": "757100000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xfb9f554abf53ef4db93e4f63545baee88c63c6b0",
+    "startBalance": "9324292672287227512",
+    "expectedAmount": "741400000000000000000",
+    "endBalance": "750724292672287227512",
+    "calculatedEnd": "750724292672287227512",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xe9fbe0a03d07e13f9ecddc737e756590bc3db442",
+    "startBalance": "66743403614098059680",
+    "expectedAmount": "741100000000000000000",
+    "endBalance": "807843403614098059680",
+    "calculatedEnd": "807843403614098059680",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xc189b7380783391b71ed64985aa89da80f1e779e",
+    "startBalance": "730636163307479323",
+    "expectedAmount": "730100000000000000000",
+    "endBalance": "730830636163307479323",
+    "calculatedEnd": "730830636163307479323",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x03b6d486e3b9c0ca35761e968deb14cd627ea821",
+    "startBalance": "1581671397410004127",
+    "expectedAmount": "730100000000000000000",
+    "endBalance": "731681671397410004127",
+    "calculatedEnd": "731681671397410004127",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x3a42072900bcc3b7ff2e6db8f912e3fb0a277768",
+    "startBalance": "14070756128817447395",
+    "expectedAmount": "713600000000000000000",
+    "endBalance": "727670756128817447395",
+    "calculatedEnd": "727670756128817447395",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x2e7699a42488e20ff5df09f60c65d3808a69e0d8",
+    "startBalance": "15052970279234959218",
+    "expectedAmount": "710300000000000000000",
+    "endBalance": "725352970279234959218",
+    "calculatedEnd": "725352970279234959218",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x44d2759c1bfc4b2e854a693b7e45f0fd90674b0f",
+    "startBalance": "636484525566",
+    "expectedAmount": "700700000000000000000",
+    "endBalance": "700700000636484525566",
+    "calculatedEnd": "700700000636484525566",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xda4e257275a686592a3bc7c43ab94526086ca281",
+    "startBalance": "14040997781782451626",
+    "expectedAmount": "685900000000000000000",
+    "endBalance": "699940997781782451626",
+    "calculatedEnd": "699940997781782451626",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x24ea2aeac09ba9016d0a2c6466ad5de963d53be2",
+    "startBalance": "17778710570613085527",
+    "expectedAmount": "668500000000000000000",
+    "endBalance": "686278710570613085527",
+    "calculatedEnd": "686278710570613085527",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x5f30145fd10b0bd8451063accbab9f32c7201c25",
+    "startBalance": "12360314412625233211",
+    "expectedAmount": "668300000000000000000",
+    "endBalance": "680660314412625233211",
+    "calculatedEnd": "680660314412625233211",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x2eb919dc3a5bbb13d91e62acf6eeb4bfa1aa60d3",
+    "startBalance": "11649859772811465364",
+    "expectedAmount": "663100000000000000000",
+    "endBalance": "674749859772811465364",
+    "calculatedEnd": "674749859772811465364",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xed89a27c10fad932a91a4026c0560ad7197071fc",
+    "startBalance": "1552601513765042368",
+    "expectedAmount": "655800000000000000000",
+    "endBalance": "657352601513765042368",
+    "calculatedEnd": "657352601513765042368",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xbd5dd27408550d3844f1804093ec81aba8a36bfc",
+    "startBalance": "3501806422622235700",
+    "expectedAmount": "648700000000000000000",
+    "endBalance": "652201806422622235700",
+    "calculatedEnd": "652201806422622235700",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x1738357449ed8db27347a1f3ad43f087bf810915",
+    "startBalance": "37264610934063861629",
+    "expectedAmount": "642500000000000000000",
+    "endBalance": "679764610934063861629",
+    "calculatedEnd": "679764610934063861629",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x2747d3239265e8f4a6a954d5d736121a92e401c4",
+    "startBalance": "0",
+    "expectedAmount": "640000000000000000000",
+    "endBalance": "640000000000000000000",
+    "calculatedEnd": "640000000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x66907de460905cb2fc07d10e2c0031d610247684",
+    "startBalance": "0",
+    "expectedAmount": "618700000000000000000",
+    "endBalance": "618700000000000000000",
+    "calculatedEnd": "618700000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xc43050b984a363912990963e512cf5af0c67eabb",
+    "startBalance": "2410904239222008125",
+    "expectedAmount": "618000000000000000000",
+    "endBalance": "620410904239222008125",
+    "calculatedEnd": "620410904239222008125",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x9046de77226c18f601bce7e8f1b9c1152ea263e3",
+    "startBalance": "927308666878411294",
+    "expectedAmount": "605900000000000000000",
+    "endBalance": "606827308666878411294",
+    "calculatedEnd": "606827308666878411294",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x3f2363c86acaa8b43dfbdfbc178fb136962f2f5a",
+    "startBalance": "34829352401881370419",
+    "expectedAmount": "602600000000000000000",
+    "endBalance": "637429352401881370419",
+    "calculatedEnd": "637429352401881370419",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xacdf10505f77d3083816e223ec4c5f57dae7008c",
+    "startBalance": "8220003406123367859",
+    "expectedAmount": "602300000000000000000",
+    "endBalance": "610520003406123367859",
+    "calculatedEnd": "610520003406123367859",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xa1a108cad30787d4f241d4ed23268dc170822de7",
+    "startBalance": "0",
+    "expectedAmount": "568300000000000000000",
+    "endBalance": "568300000000000000000",
+    "calculatedEnd": "568300000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xa46a07962c32e140960e03db21e684eb2762c842",
+    "startBalance": "304741421667813121470",
+    "expectedAmount": "557800000000000000000",
+    "endBalance": "862541421667813121470",
+    "calculatedEnd": "862541421667813121470",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x38dd414a9a2e63e97a6fb69a0a421e50ce00c5dc",
+    "startBalance": "3226485015513365675",
+    "expectedAmount": "556500000000000000000",
+    "endBalance": "559726485015513365675",
+    "calculatedEnd": "559726485015513365675",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x601cb7712f86a279d0fbd5f6bad26407ddea1c26",
+    "startBalance": "44896026808717892826",
+    "expectedAmount": "555500000000000000000",
+    "endBalance": "600396026808717892826",
+    "calculatedEnd": "600396026808717892826",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x87db6eb4321133a5856ff9764430d80c0ea8f2ff",
+    "startBalance": "1579368385",
+    "expectedAmount": "551300000000000000000",
+    "endBalance": "551300000001579368385",
+    "calculatedEnd": "551300000001579368385",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xbdf13f70633c34eb7bb4b73f24bf91c6e2bb10ea",
+    "startBalance": "208215349299780687489",
+    "expectedAmount": "546400000000000000000",
+    "endBalance": "754615349299780687489",
+    "calculatedEnd": "754615349299780687489",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x2ceff16df2d380b8212b62592ad14be5ac57e7c4",
+    "startBalance": "136903598535967166567",
+    "expectedAmount": "541300000000000000000",
+    "endBalance": "678203598535967166567",
+    "calculatedEnd": "678203598535967166567",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x47ba4875e8039d6df21c85ce8c543328794d4bc7",
+    "startBalance": "934941763160708727808",
+    "expectedAmount": "528100000000000000000",
+    "endBalance": "1463041763160708727808",
+    "calculatedEnd": "1463041763160708727808",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xbe3ef752e84b15ead560cd69ad855684cb41b667",
+    "startBalance": "16887374117981156523",
+    "expectedAmount": "518200000000000000000",
+    "endBalance": "535087374117981156523",
+    "calculatedEnd": "535087374117981156523",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xbc9619001644d7e335fccac6ada045fa5a21e29b",
+    "startBalance": "9923985012722816232",
+    "expectedAmount": "507400000000000000000",
+    "endBalance": "517323985012722816232",
+    "calculatedEnd": "517323985012722816232",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x863e57b535e1e7e2c9099713243ccec802af984d",
+    "startBalance": "471499334063679517",
+    "expectedAmount": "493600000000000000000",
+    "endBalance": "494071499334063679517",
+    "calculatedEnd": "494071499334063679517",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x8c0f33dacfa40e225c7ada0de2e3ee4d07d0751d",
+    "startBalance": "48444832545205160595",
+    "expectedAmount": "483000000000000000000",
+    "endBalance": "531444832545205160595",
+    "calculatedEnd": "531444832545205160595",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xa51ebec3a12d545040dfb313e33a8052055a90fb",
+    "startBalance": "4358713583409195434",
+    "expectedAmount": "482600000000000000000",
+    "endBalance": "486958713583409195434",
+    "calculatedEnd": "486958713583409195434",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x3d46d859d14441f649c4c6c5406b5921fc44ed25",
+    "startBalance": "25329498277644781891",
+    "expectedAmount": "481600000000000000000",
+    "endBalance": "506929498277644781891",
+    "calculatedEnd": "506929498277644781891",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x6da7acdc0500ba05785220ce39014b581f016f80",
+    "startBalance": "175097358935022423666",
+    "expectedAmount": "461000000000000000000",
+    "endBalance": "636097358935022423666",
+    "calculatedEnd": "636097358935022423666",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x49956d70636204db0de422cf5e031da5a360a220",
+    "startBalance": "0",
+    "expectedAmount": "458300000000000000000",
+    "endBalance": "458300000000000000000",
+    "calculatedEnd": "458300000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xe647504a51c7b46d26dcf80805c4f0bcee70220b",
+    "startBalance": "0",
+    "expectedAmount": "455800000000000000000",
+    "endBalance": "455800000000000000000",
+    "calculatedEnd": "455800000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x673a4f0e3e50af4e3ded14b711034e8e530cc25a",
+    "startBalance": "22401495882925947131",
+    "expectedAmount": "450400000000000000000",
+    "endBalance": "472801495882925947131",
+    "calculatedEnd": "472801495882925947131",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xd8ef4932c36641d484b96a2892b40fb0d241a852",
+    "startBalance": "153321845730880973829",
+    "expectedAmount": "444200000000000000000",
+    "endBalance": "597521845730880973829",
+    "calculatedEnd": "597521845730880973829",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x73dedd2eef068137067027fa311ad09dc87963b8",
+    "startBalance": "29565483544637158340",
+    "expectedAmount": "433300000000000000000",
+    "endBalance": "462865483544637158340",
+    "calculatedEnd": "462865483544637158340",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xb701c7139324c79682519fc76282ef4173f79b26",
+    "startBalance": "0",
+    "expectedAmount": "426000000000000000000",
+    "endBalance": "426000000000000000000",
+    "calculatedEnd": "426000000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x198a0a2fa5b012e4646e7240ddfb16529967d72b",
+    "startBalance": "1437194162443073921",
+    "expectedAmount": "423600000000000000000",
+    "endBalance": "425037194162443073921",
+    "calculatedEnd": "425037194162443073921",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x2440edddaa7181aedc4a185b5af17cf900d0fa6b",
+    "startBalance": "842991323497245045318",
+    "expectedAmount": "417900000000000000000",
+    "endBalance": "1260891323497245045318",
+    "calculatedEnd": "1260891323497245045318",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x68367b04ddc54dc69655bd2501ba7a6f8afd1775",
+    "startBalance": "193743638649740755347",
+    "expectedAmount": "401500000000000000000",
+    "endBalance": "595243638649740755347",
+    "calculatedEnd": "595243638649740755347",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x35692dfa7420b6fa102945813c949c2857a17df7",
+    "startBalance": "35052829452463677732",
+    "expectedAmount": "397700000000000000000",
+    "endBalance": "432752829452463677732",
+    "calculatedEnd": "432752829452463677732",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x0298c27db135b5b091e9243cb4471795691bbfe4",
+    "startBalance": "1123292147629561104",
+    "expectedAmount": "376300000000000000000",
+    "endBalance": "377423292147629561104",
+    "calculatedEnd": "377423292147629561104",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x2a3d5a503db8ae738198ed16bc310c701f75ebdf",
+    "startBalance": "1802695242877825743",
+    "expectedAmount": "373700000000000000000",
+    "endBalance": "375502695242877825743",
+    "calculatedEnd": "375502695242877825743",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xde48f44e2a2efc3f208e75b2c82cf2e53c163b3c",
+    "startBalance": "0",
+    "expectedAmount": "362000000000000000000",
+    "endBalance": "362000000000000000000",
+    "calculatedEnd": "362000000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xd06489918bf5d35f453da439bcd9a3105a7edda4",
+    "startBalance": "1722782148324216459",
+    "expectedAmount": "352900000000000000000",
+    "endBalance": "354622782148324216459",
+    "calculatedEnd": "354622782148324216459",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xf0b39de459ba00c3aa3a96976124c948c7de6c8e",
+    "startBalance": "23159433498813009800",
+    "expectedAmount": "350100000000000000000",
+    "endBalance": "373259433498813009800",
+    "calculatedEnd": "373259433498813009800",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xe2d43ccf2fc2867f8ef6244b4b4078c8c74ad8f4",
+    "startBalance": "45142628867992830144",
+    "expectedAmount": "349700000000000000000",
+    "endBalance": "394842628867992830144",
+    "calculatedEnd": "394842628867992830144",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xec5bd81eeba9caca693cae608f9746f7cca19248",
+    "startBalance": "37259119583540812427",
+    "expectedAmount": "347700000000000000000",
+    "endBalance": "384959119583540812427",
+    "calculatedEnd": "384959119583540812427",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x81497480bdcbbf999e2e8e32d10d1211b37d1c9d",
+    "startBalance": "4554697063601792643",
+    "expectedAmount": "347600000000000000000",
+    "endBalance": "352154697063601792643",
+    "calculatedEnd": "352154697063601792643",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x0aa354becf15b5af7889cbdb98468fec298094a9",
+    "startBalance": "42188206270758622586",
+    "expectedAmount": "340700000000000000000",
+    "endBalance": "382888206270758622586",
+    "calculatedEnd": "382888206270758622586",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x4dc320571f9c8ef6920e8794ec991294619aff6f",
+    "startBalance": "67858397852121198",
+    "expectedAmount": "340400000000000000000",
+    "endBalance": "340467858397852121198",
+    "calculatedEnd": "340467858397852121198",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x9bdc853b777a080e2e7189a57ef1c82ed2a87905",
+    "startBalance": "0",
+    "expectedAmount": "335400000000000000000",
+    "endBalance": "335400000000000000000",
+    "calculatedEnd": "335400000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xdc4af1f0c8702b22280ed386cf36a833fb966367",
+    "startBalance": "16426621650415929315",
+    "expectedAmount": "331300000000000000000",
+    "endBalance": "347726621650415929315",
+    "calculatedEnd": "347726621650415929315",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x8f2fa51feb37c720e8150a57bcaee4bac3d3a460",
+    "startBalance": "9712885788829280838",
+    "expectedAmount": "330200000000000000000",
+    "endBalance": "339912885788829280838",
+    "calculatedEnd": "339912885788829280838",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x757a9d479f15ecd09f18d06b6131306da4ed2def",
+    "startBalance": "316027439410769160963",
+    "expectedAmount": "324500000000000000000",
+    "endBalance": "640527439410769160963",
+    "calculatedEnd": "640527439410769160963",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x8b9f8a0330c67dcceec401a76df6506145c48a47",
+    "startBalance": "75524644277738604065",
+    "expectedAmount": "317000000000000000000",
+    "endBalance": "392524644277738604065",
+    "calculatedEnd": "392524644277738604065",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xc08b8452e4fe710d694f0362ca4e9ae8aeaae218",
+    "startBalance": "9347353624234878264",
+    "expectedAmount": "315100000000000000000",
+    "endBalance": "324447353624234878264",
+    "calculatedEnd": "324447353624234878264",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x4cb01b6672bc750821af952ec5a2447fc90195b1",
+    "startBalance": "0",
+    "expectedAmount": "313700000000000000000",
+    "endBalance": "313700000000000000000",
+    "calculatedEnd": "313700000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x5290220f6c834734b974bdda379d262550316bef",
+    "startBalance": "2657414093451768969",
+    "expectedAmount": "307200000000000000000",
+    "endBalance": "309857414093451768969",
+    "calculatedEnd": "309857414093451768969",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x085f9f9a3c92f9468940a765a0760706fcca2e88",
+    "startBalance": "538478350202806856",
+    "expectedAmount": "304900000000000000000",
+    "endBalance": "305438478350202806856",
+    "calculatedEnd": "305438478350202806856",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x5dd649c8c1c5381427c70f6b951167f09c7839c2",
+    "startBalance": "0",
+    "expectedAmount": "302500000000000000000",
+    "endBalance": "302500000000000000000",
+    "calculatedEnd": "302500000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x0fde9ee452e2e30818bce94cdac900d351d6ff0c",
+    "startBalance": "0",
+    "expectedAmount": "292400000000000000000",
+    "endBalance": "292400000000000000000",
+    "calculatedEnd": "292400000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x5f8f4cc0403332fc9c22a23222ddb9b267bf2e70",
+    "startBalance": "431033123874266782",
+    "expectedAmount": "285100000000000000000",
+    "endBalance": "285531033123874266782",
+    "calculatedEnd": "285531033123874266782",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x3894af06d4f91a6874791f50e9ca246ea4c6232c",
+    "startBalance": "9079805647465872095",
+    "expectedAmount": "281900000000000000000",
+    "endBalance": "290979805647465872095",
+    "calculatedEnd": "290979805647465872095",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x79c39c34bbe7c31f8dc0c9e60f307f32499176c6",
+    "startBalance": "4397368967261196392",
+    "expectedAmount": "276000000000000000000",
+    "endBalance": "280397368967261196392",
+    "calculatedEnd": "280397368967261196392",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x3c4c17d1017b034a253a3e031838c9a0cc4aaa0b",
+    "startBalance": "7173860316345308951",
+    "expectedAmount": "272700000000000000000",
+    "endBalance": "279873860316345308951",
+    "calculatedEnd": "279873860316345308951",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x8802719ea260b4b75b07e63ad4de0e83c8c557d0",
+    "startBalance": "9426111903938839663",
+    "expectedAmount": "264900000000000000000",
+    "endBalance": "274326111903938839663",
+    "calculatedEnd": "274326111903938839663",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xd938fcd044cea9e1c077a44cc8f91133d2757feb",
+    "startBalance": "918787106243240914",
+    "expectedAmount": "261800000000000000000",
+    "endBalance": "262718787106243240914",
+    "calculatedEnd": "262718787106243240914",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x486a6b458c2ca7402e3cbeafe073044f53dd7e6d",
+    "startBalance": "225637056573446530143",
+    "expectedAmount": "249800000000000000000",
+    "endBalance": "475437056573446530143",
+    "calculatedEnd": "475437056573446530143",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xf15b2a6cca9c34f345d00e534b1920cf6497ce32",
+    "startBalance": "343232009040",
+    "expectedAmount": "243800000000000000000",
+    "endBalance": "243800000343232009040",
+    "calculatedEnd": "243800000343232009040",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x8c0c192fb5960857575f403f3d65f2f3fa92ffef",
+    "startBalance": "0",
+    "expectedAmount": "243600000000000000000",
+    "endBalance": "243600000000000000000",
+    "calculatedEnd": "243600000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xe25ae8e7a077565eefecd54d0d58ea94677d8d8d",
+    "startBalance": "0",
+    "expectedAmount": "231800000000000000000",
+    "endBalance": "231800000000000000000",
+    "calculatedEnd": "231800000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xcc7ea55d7a08902147ecefe65cb6067a98779386",
+    "startBalance": "4668978035993855854",
+    "expectedAmount": "230500000000000000000",
+    "endBalance": "235168978035993855854",
+    "calculatedEnd": "235168978035993855854",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x5ca39925af348525885cff41df47add5d0378361",
+    "startBalance": "0",
+    "expectedAmount": "224000000000000000000",
+    "endBalance": "224000000000000000000",
+    "calculatedEnd": "224000000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xa835de2a5b0a5ac25a24fb76c13938af1f68d8fb",
+    "startBalance": "0",
+    "expectedAmount": "217400000000000000000",
+    "endBalance": "217400000000000000000",
+    "calculatedEnd": "217400000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x57c7b5f9b9199fc2c9f8528bcce2de0d160a894e",
+    "startBalance": "0",
+    "expectedAmount": "214100000000000000000",
+    "endBalance": "214100000000000000000",
+    "calculatedEnd": "214100000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x111954513f984e5678923cac6ce8b183a06874d5",
+    "startBalance": "1000000000000069368",
+    "expectedAmount": "213200000000000000000",
+    "endBalance": "214200000000000069368",
+    "calculatedEnd": "214200000000000069368",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x8f52f5eaffa522ffef4577687041188e34fe8081",
+    "startBalance": "0",
+    "expectedAmount": "212700000000000000000",
+    "endBalance": "212700000000000000000",
+    "calculatedEnd": "212700000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x47e10e6a1579576b6cff62523cfc2a713597caf1",
+    "startBalance": "50696307948577662825",
+    "expectedAmount": "212400000000000000000",
+    "endBalance": "263096307948577662825",
+    "calculatedEnd": "263096307948577662825",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x5196f7fc058a94f34138b253b6cd61e1b3a4aee8",
+    "startBalance": "11478755021161117004",
+    "expectedAmount": "209500000000000000000",
+    "endBalance": "220978755021161117004",
+    "calculatedEnd": "220978755021161117004",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xec5bddb1d987d6bc5b400107b305794922e64b29",
+    "startBalance": "0",
+    "expectedAmount": "206000000000000000000",
+    "endBalance": "206000000000000000000",
+    "calculatedEnd": "206000000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xb41f59b5443c6ee71e0489d37e69ef1afd3b44d9",
+    "startBalance": "0",
+    "expectedAmount": "206000000000000000000",
+    "endBalance": "206000000000000000000",
+    "calculatedEnd": "206000000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xef75d606fb8b08d1ee5800fd379843ca53464ce1",
+    "startBalance": "296273236062744114913",
+    "expectedAmount": "205500000000000000000",
+    "endBalance": "501773236062744114913",
+    "calculatedEnd": "501773236062744114913",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xf51109d540a67b88063fdc8b1f57228fe8443c67",
+    "startBalance": "11661049643260171291",
+    "expectedAmount": "202300000000000000000",
+    "endBalance": "213961049643260171291",
+    "calculatedEnd": "213961049643260171291",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x24ad8015495e425b66a5badb9a0ef3fee560d476",
+    "startBalance": "84141",
+    "expectedAmount": "200800000000000000000",
+    "endBalance": "200800000000000084141",
+    "calculatedEnd": "200800000000000084141",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x65996c0ab64dfc3703d4b6ef70e15933486e68cb",
+    "startBalance": "10323692864154056615",
+    "expectedAmount": "198500000000000000000",
+    "endBalance": "208823692864154056615",
+    "calculatedEnd": "208823692864154056615",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xbf185c104196bebb0f154b45dc4a2b2d4e7f8753",
+    "startBalance": "0",
+    "expectedAmount": "190700000000000000000",
+    "endBalance": "190700000000000000000",
+    "calculatedEnd": "190700000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xe3b6a486bb7143246f0ab52f1b64aa9a381c86a7",
+    "startBalance": "0",
+    "expectedAmount": "190500000000000000000",
+    "endBalance": "190500000000000000000",
+    "calculatedEnd": "190500000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x0063a71fe7a2de53cbbe4fdbfa41c9d807da1efe",
+    "startBalance": "4390575910495256",
+    "expectedAmount": "181900000000000000000",
+    "endBalance": "181904390575910495256",
+    "calculatedEnd": "181904390575910495256",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x18ae822d324080fc24dbddfd8164e0d9902b1c73",
+    "startBalance": "3201091244258661569",
+    "expectedAmount": "181700000000000000000",
+    "endBalance": "184901091244258661569",
+    "calculatedEnd": "184901091244258661569",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x7f008f240833836e1b6a7fb9358f66c369e8e4a1",
+    "startBalance": "40868593892965443",
+    "expectedAmount": "179500000000000000000",
+    "endBalance": "179540868593892965443",
+    "calculatedEnd": "179540868593892965443",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x554f150facf8a00ea6ee9cae43d67f85e52f9bcc",
+    "startBalance": "1899038389433654656",
+    "expectedAmount": "178200000000000000000",
+    "endBalance": "180099038389433654656",
+    "calculatedEnd": "180099038389433654656",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xa786f1353fc72b7f374edd68b964e3d109a7f127",
+    "startBalance": "1445438324702059340",
+    "expectedAmount": "176800000000000000000",
+    "endBalance": "178245438324702059340",
+    "calculatedEnd": "178245438324702059340",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x9984f76f69a556c1e65bdc07c188245d74584c7e",
+    "startBalance": "191978791172416273889",
+    "expectedAmount": "172700000000000000000",
+    "endBalance": "364678791172416273889",
+    "calculatedEnd": "364678791172416273889",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xe719dd3ebe4aaea3a15cbc9fbeee9a6f328c090e",
+    "startBalance": "1869178514244130637",
+    "expectedAmount": "172400000000000000000",
+    "endBalance": "174269178514244130637",
+    "calculatedEnd": "174269178514244130637",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x0852373fd4e433e81367e045bcaa1e9a66066643",
+    "startBalance": "0",
+    "expectedAmount": "171100000000000000000",
+    "endBalance": "171100000000000000000",
+    "calculatedEnd": "171100000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x041b607209579fc4d8056b1aceffce37b3d4f680",
+    "startBalance": "0",
+    "expectedAmount": "170300000000000000000",
+    "endBalance": "170300000000000000000",
+    "calculatedEnd": "170300000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x211d463b1f8fc34ae2819582797d012fbf213f6d",
+    "startBalance": "5229454415004225358",
+    "expectedAmount": "166400000000000000000",
+    "endBalance": "171629454415004225358",
+    "calculatedEnd": "171629454415004225358",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x1bb1a09f1cc9172cf005dd65128abf2e0493b29b",
+    "startBalance": "0",
+    "expectedAmount": "162100000000000000000",
+    "endBalance": "162100000000000000000",
+    "calculatedEnd": "162100000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xa884deb7e52522201118058a8981a5a18d99f60c",
+    "startBalance": "39607221001300000000",
+    "expectedAmount": "160100000000000000000",
+    "endBalance": "199707221001300000000",
+    "calculatedEnd": "199707221001300000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x8e5ecb702a38fbe17de3bcd54003c2429095776a",
+    "startBalance": "1443117230501481341",
+    "expectedAmount": "160100000000000000000",
+    "endBalance": "161543117230501481341",
+    "calculatedEnd": "161543117230501481341",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x0e3a4e4c32c3b7ebf92c729fed1ed33a37daeee5",
+    "startBalance": "5497298550976744135",
+    "expectedAmount": "159000000000000000000",
+    "endBalance": "164497298550976744135",
+    "calculatedEnd": "164497298550976744135",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x148156005c9c620782c059a18ba32a2b9278c748",
+    "startBalance": "304960092762968140",
+    "expectedAmount": "157000000000000000000",
+    "endBalance": "157304960092762968140",
+    "calculatedEnd": "157304960092762968140",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x2fb7225c668b6a4f8ebe4df229374f09e67f9e37",
+    "startBalance": "10799753732457357044",
+    "expectedAmount": "153000000000000000000",
+    "endBalance": "163799753732457357044",
+    "calculatedEnd": "163799753732457357044",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x7e902955133590e5fbd3eec5ef9ff35049b941f4",
+    "startBalance": "776192630589556928",
+    "expectedAmount": "152200000000000000000",
+    "endBalance": "152976192630589556928",
+    "calculatedEnd": "152976192630589556928",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x676c4f2c77f2ed2cf046f92747af654a1b40aabe",
+    "startBalance": "196000000000000000000",
+    "expectedAmount": "151100000000000000000",
+    "endBalance": "347100000000000000000",
+    "calculatedEnd": "347100000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x48e78d0170f8edfb8e07e138ab182cfb99eb733b",
+    "startBalance": "2512954605",
+    "expectedAmount": "149200000000000000000",
+    "endBalance": "149200000002512954605",
+    "calculatedEnd": "149200000002512954605",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x33fd1acc271574f6e5c2eb4a0ea1264251ba2119",
+    "startBalance": "71294377555321516675",
+    "expectedAmount": "147500000000000000000",
+    "endBalance": "218794377555321516675",
+    "calculatedEnd": "218794377555321516675",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xa220dab9d9f408a8c262209b7df9236373a25378",
+    "startBalance": "0",
+    "expectedAmount": "146800000000000000000",
+    "endBalance": "146800000000000000000",
+    "calculatedEnd": "146800000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x209b6c6ab564d19fc31d6322a8cda553badc2c70",
+    "startBalance": "24415937560636743875",
+    "expectedAmount": "146800000000000000000",
+    "endBalance": "171215937560636743875",
+    "calculatedEnd": "171215937560636743875",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x667194a13318dd03ecb3fe47cdb8e43e6381618d",
+    "startBalance": "63991677115228007",
+    "expectedAmount": "144200000000000000000",
+    "endBalance": "144263991677115228007",
+    "calculatedEnd": "144263991677115228007",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xeed98a551c833041fd0ffdd78d1db107b9790305",
+    "startBalance": "200398864956000909",
+    "expectedAmount": "141300000000000000000",
+    "endBalance": "141500398864956000909",
+    "calculatedEnd": "141500398864956000909",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x5e4be30aeccb0c4f9811eb3876d0271ea826eb67",
+    "startBalance": "888979032355648933",
+    "expectedAmount": "140300000000000000000",
+    "endBalance": "141188979032355648933",
+    "calculatedEnd": "141188979032355648933",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x25afd424e90418b9aead979147965b2426b818ef",
+    "startBalance": "526737810105909318",
+    "expectedAmount": "136300000000000000000",
+    "endBalance": "136826737810105909318",
+    "calculatedEnd": "136826737810105909318",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xd21af3eb2b843a8379dbe0f6b92af15118fe252f",
+    "startBalance": "179781673963325416213",
+    "expectedAmount": "135700000000000000000",
+    "endBalance": "315481673963325416213",
+    "calculatedEnd": "315481673963325416213",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xd70b14f5d66bb26552feeef3d4d67df24186c5bf",
+    "startBalance": "1111255991959518611",
+    "expectedAmount": "133100000000000000000",
+    "endBalance": "134211255991959518611",
+    "calculatedEnd": "134211255991959518611",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x08f8394ada780779190793122e095a8ffa6e6376",
+    "startBalance": "1527772872061565039",
+    "expectedAmount": "132100000000000000000",
+    "endBalance": "133627772872061565039",
+    "calculatedEnd": "133627772872061565039",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xc7d2dbb084bf1e9a9c049f37309f6f19056360d6",
+    "startBalance": "6038531061143708526",
+    "expectedAmount": "131000000000000000000",
+    "endBalance": "137038531061143708526",
+    "calculatedEnd": "137038531061143708526",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xce159183e468c2e0315ec6e5616e66d4dadf5006",
+    "startBalance": "35726068217897174396",
+    "expectedAmount": "130500000000000000000",
+    "endBalance": "166226068217897174396",
+    "calculatedEnd": "166226068217897174396",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x84a291ab07165a14221ac745494e82dbe3bcef9c",
+    "startBalance": "25800777202609767601",
+    "expectedAmount": "128900000000000000000",
+    "endBalance": "154700777202609767601",
+    "calculatedEnd": "154700777202609767601",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x87ec25b293ad38c5b61dfca9f0e3e2100fd47302",
+    "startBalance": "0",
+    "expectedAmount": "128400000000000000000",
+    "endBalance": "128400000000000000000",
+    "calculatedEnd": "128400000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x699babd3a456e1fc94d30b6f9a607d96932c3147",
+    "startBalance": "940971677334661397",
+    "expectedAmount": "126900000000000000000",
+    "endBalance": "127840971677334661397",
+    "calculatedEnd": "127840971677334661397",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x6d24d694154b1d54131c2aff6b92570eef97a65c",
+    "startBalance": "109807259810882648488",
+    "expectedAmount": "121900000000000000000",
+    "endBalance": "231707259810882648488",
+    "calculatedEnd": "231707259810882648488",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x1e3c72f2d589a2c99a804c176bd0742e2dc49660",
+    "startBalance": "1301503183115893365",
+    "expectedAmount": "120200000000000000000",
+    "endBalance": "121501503183115893365",
+    "calculatedEnd": "121501503183115893365",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x1559abb26c2eaed0d52cfcdd6dca3ef8dc4dbeb6",
+    "startBalance": "4342889612094958696",
+    "expectedAmount": "117400000000000000000",
+    "endBalance": "121742889612094958696",
+    "calculatedEnd": "121742889612094958696",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xe574864a6549227c940be04d686cc1b6861a022e",
+    "startBalance": "415323025646974183",
+    "expectedAmount": "112200000000000000000",
+    "endBalance": "112615323025646974183",
+    "calculatedEnd": "112615323025646974183",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x1818ec021ab41c0ca81232a121793ea0d964082e",
+    "startBalance": "0",
+    "expectedAmount": "112100000000000000000",
+    "endBalance": "112100000000000000000",
+    "calculatedEnd": "112100000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x7e21fc073059e80e5f28aa7c039876f18d694e1c",
+    "startBalance": "0",
+    "expectedAmount": "110600000000000000000",
+    "endBalance": "110600000000000000000",
+    "calculatedEnd": "110600000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x874ea272d3c15b2feda25ed443a0e2e7c5a2153f",
+    "startBalance": "0",
+    "expectedAmount": "109600000000000000000",
+    "endBalance": "109600000000000000000",
+    "calculatedEnd": "109600000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x47ea9e812f39bc26f95cbf1fc36230558492133d",
+    "startBalance": "182274445220067729",
+    "expectedAmount": "107800000000000000000",
+    "endBalance": "107982274445220067729",
+    "calculatedEnd": "107982274445220067729",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xa9dac4e6f534b1ae2cbe8b5f0c607317e613fd60",
+    "startBalance": "168538188591293548139",
+    "expectedAmount": "107200000000000000000",
+    "endBalance": "275738188591293548139",
+    "calculatedEnd": "275738188591293548139",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x2d9d63433f43a8c55442619e810e1b34cfef8504",
+    "startBalance": "70146780594762406086",
+    "expectedAmount": "105900000000000000000",
+    "endBalance": "176046780594762406086",
+    "calculatedEnd": "176046780594762406086",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x93b5c7e577fc94321659ef5ade6718c1cbb9b01c",
+    "startBalance": "96457595203773433448",
+    "expectedAmount": "105600000000000000000",
+    "endBalance": "202057595203773433448",
+    "calculatedEnd": "202057595203773433448",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xbd2a95d30761333cb573be00e4c76a0995c7d07a",
+    "startBalance": "0",
+    "expectedAmount": "103900000000000000000",
+    "endBalance": "103900000000000000000",
+    "calculatedEnd": "103900000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x5ae732e5b615e8639d855bbbc110f028a2855087",
+    "startBalance": "0",
+    "expectedAmount": "102600000000000000000",
+    "endBalance": "102600000000000000000",
+    "calculatedEnd": "102600000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x0beaef07bd599a28058454fd93a004d0a39a21a4",
+    "startBalance": "0",
+    "expectedAmount": "102600000000000000000",
+    "endBalance": "102600000000000000000",
+    "calculatedEnd": "102600000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x1ddaf35ad9c92354062385fe4e4e38364452b9bc",
+    "startBalance": "0",
+    "expectedAmount": "100400000000000000000",
+    "endBalance": "100400000000000000000",
+    "calculatedEnd": "100400000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xfa4935d8cba38ee2ec730b8ffde0a6c61e17e78c",
+    "startBalance": "0",
+    "expectedAmount": "99700000000000000000",
+    "endBalance": "99700000000000000000",
+    "calculatedEnd": "99700000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x695ed4801272fa829c5c5d9d2f52176c67d58010",
+    "startBalance": "0",
+    "expectedAmount": "99600000000000000000",
+    "endBalance": "99600000000000000000",
+    "calculatedEnd": "99600000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xbb8c30610a36f1c04f1799a3cebbb18ce5ef43fb",
+    "startBalance": "697717996598",
+    "expectedAmount": "99400000000000000000",
+    "endBalance": "99400000697717996598",
+    "calculatedEnd": "99400000697717996598",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xab60c08ae25cc5189917cf486edcdbd9f767f630",
+    "startBalance": "0",
+    "expectedAmount": "98900000000000000000",
+    "endBalance": "98900000000000000000",
+    "calculatedEnd": "98900000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x2fe64ba5516fc9d3dd562e0550439159eec4e304",
+    "startBalance": "8793195010124020135",
+    "expectedAmount": "98200000000000000000",
+    "endBalance": "106993195010124020135",
+    "calculatedEnd": "106993195010124020135",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x7fa67e8c6d1569e086a5763947160ebb0097d30d",
+    "startBalance": "0",
+    "expectedAmount": "98100000000000000000",
+    "endBalance": "98100000000000000000",
+    "calculatedEnd": "98100000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xaf5c40cc6588436ffe0aaa6ddbda980d61d9bbc8",
+    "startBalance": "1715489864400006278",
+    "expectedAmount": "97600000000000000000",
+    "endBalance": "99315489864400006278",
+    "calculatedEnd": "99315489864400006278",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xe9a616f65883feda4ad04ed8b6e219a40b14c6b0",
+    "startBalance": "1785254119470990067",
+    "expectedAmount": "97500000000000000000",
+    "endBalance": "99285254119470990067",
+    "calculatedEnd": "99285254119470990067",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x1f5c91c68328da3208bb7a40e544eef1c1a37186",
+    "startBalance": "39045193655428269871",
+    "expectedAmount": "97100000000000000000",
+    "endBalance": "136145193655428269871",
+    "calculatedEnd": "136145193655428269871",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x442b82269b49d765b6d81b91a3679be38e45158f",
+    "startBalance": "0",
+    "expectedAmount": "96700000000000000000",
+    "endBalance": "96700000000000000000",
+    "calculatedEnd": "96700000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x05f1f5e105261ff614cbf72fc96d44b405c63b5d",
+    "startBalance": "4235064466563851173",
+    "expectedAmount": "94600000000000000000",
+    "endBalance": "98835064466563851173",
+    "calculatedEnd": "98835064466563851173",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xbc376300c4b95c0b57db7784ff7a3a919aa6077f",
+    "startBalance": "1519314949347186026",
+    "expectedAmount": "94200000000000000000",
+    "endBalance": "95719314949347186026",
+    "calculatedEnd": "95719314949347186026",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x16df4d9efeae2f1423d871e91400e2dfb77af711",
+    "startBalance": "0",
+    "expectedAmount": "93900000000000000000",
+    "endBalance": "93900000000000000000",
+    "calculatedEnd": "93900000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x43e5f9ce17b98912ef34fbf126284c1272809aeb",
+    "startBalance": "0",
+    "expectedAmount": "93700000000000000000",
+    "endBalance": "93700000000000000000",
+    "calculatedEnd": "93700000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x692c3000233b200ddd4ca88bec69d36d1b41bd0d",
+    "startBalance": "0",
+    "expectedAmount": "93200000000000000000",
+    "endBalance": "93200000000000000000",
+    "calculatedEnd": "93200000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xfd17320dd3be9e3833747f0c015831098ca2deda",
+    "startBalance": "0",
+    "expectedAmount": "93000000000000000000",
+    "endBalance": "93000000000000000000",
+    "calculatedEnd": "93000000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xd2dc3adde00faf9f89b40a71071837410e321727",
+    "startBalance": "0",
+    "expectedAmount": "92800000000000000000",
+    "endBalance": "92800000000000000000",
+    "calculatedEnd": "92800000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x54cfc009d17c9d6161604a9535ddb0e2ec8ae218",
+    "startBalance": "0",
+    "expectedAmount": "92800000000000000000",
+    "endBalance": "92800000000000000000",
+    "calculatedEnd": "92800000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x0743542070891051861f8d0a4550f97b43b0b89a",
+    "startBalance": "12620109142604088798",
+    "expectedAmount": "92400000000000000000",
+    "endBalance": "105020109142604088798",
+    "calculatedEnd": "105020109142604088798",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x7c00c4b7c14262e6ee159aa58be9f4bc4da1d1f3",
+    "startBalance": "1918993928169953267",
+    "expectedAmount": "91300000000000000000",
+    "endBalance": "93218993928169953267",
+    "calculatedEnd": "93218993928169953267",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xb735938b2baacd62bb4d1dc1f54e83b81e8adc7b",
+    "startBalance": "0",
+    "expectedAmount": "89900000000000000000",
+    "endBalance": "89900000000000000000",
+    "calculatedEnd": "89900000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xd3ae31b669ab51391f9ba970773a414c0ae152af",
+    "startBalance": "275135758127668804",
+    "expectedAmount": "89600000000000000000",
+    "endBalance": "89875135758127668804",
+    "calculatedEnd": "89875135758127668804",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x081fa64b6667f0abbce89bbb08d64ddc6096e759",
+    "startBalance": "0",
+    "expectedAmount": "89600000000000000000",
+    "endBalance": "89600000000000000000",
+    "calculatedEnd": "89600000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x46ed1eada07d498d2fe8a2252c89e3bf3f95bfa1",
+    "startBalance": "0",
+    "expectedAmount": "88200000000000000000",
+    "endBalance": "88200000000000000000",
+    "calculatedEnd": "88200000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xab2171884a783a731c28ef09d5bd14803d6aa8bd",
+    "startBalance": "45596781828591248233",
+    "expectedAmount": "86600000000000000000",
+    "endBalance": "132196781828591248233",
+    "calculatedEnd": "132196781828591248233",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x50cc9a8a73ea3192ef32a6d3fe2fa7ea0ea9eee0",
+    "startBalance": "0",
+    "expectedAmount": "85100000000000000000",
+    "endBalance": "85100000000000000000",
+    "calculatedEnd": "85100000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x446a3e8dea79f232ebf35010b39578c30c8e7f94",
+    "startBalance": "1258553247752547784630",
+    "expectedAmount": "84500000000000000000",
+    "endBalance": "1343053247752547784630",
+    "calculatedEnd": "1343053247752547784630",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x2d5ecbb26accb0fe671b0d1975e4dcda998c0f72",
+    "startBalance": "40501533676260577465",
+    "expectedAmount": "84200000000000000000",
+    "endBalance": "124701533676260577465",
+    "calculatedEnd": "124701533676260577465",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x6866d5862794b63c6a3d26ebaf6229563e38c55b",
+    "startBalance": "40554993147136955251",
+    "expectedAmount": "79800000000000000000",
+    "endBalance": "120354993147136955251",
+    "calculatedEnd": "120354993147136955251",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x6659eeb8217a915ee2e637e8b257afbc7dc5b81e",
+    "startBalance": "617406223208926683",
+    "expectedAmount": "79500000000000000000",
+    "endBalance": "80117406223208926683",
+    "calculatedEnd": "80117406223208926683",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x487a2419585ece48e91f7943b196ec6c090c2855",
+    "startBalance": "0",
+    "expectedAmount": "79500000000000000000",
+    "endBalance": "79500000000000000000",
+    "calculatedEnd": "79500000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x5f5632d2c130b4c00b8c65660d0f76e0a160c145",
+    "startBalance": "0",
+    "expectedAmount": "76700000000000000000",
+    "endBalance": "76700000000000000000",
+    "calculatedEnd": "76700000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x4bdc01fbd96932c11276700dddc75f9dcd911712",
+    "startBalance": "0",
+    "expectedAmount": "76500000000000000000",
+    "endBalance": "76500000000000000000",
+    "calculatedEnd": "76500000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xb0f5604099655c7bc3e5ce44110963edc4ad93d9",
+    "startBalance": "0",
+    "expectedAmount": "76300000000000000000",
+    "endBalance": "76300000000000000000",
+    "calculatedEnd": "76300000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x840230a50217edb160c8df67699eaa02d33cda23",
+    "startBalance": "0",
+    "expectedAmount": "76000000000000000000",
+    "endBalance": "76000000000000000000",
+    "calculatedEnd": "76000000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x94859452da7f0776bfa895e6598d76d1340d530f",
+    "startBalance": "0",
+    "expectedAmount": "75800000000000000000",
+    "endBalance": "75800000000000000000",
+    "calculatedEnd": "75800000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x59193fdb8675ef77908a982e0f0d094cc9ca7d28",
+    "startBalance": "630878181616013180",
+    "expectedAmount": "75300000000000000000",
+    "endBalance": "75930878181616013180",
+    "calculatedEnd": "75930878181616013180",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x176a8839b906974be6467b1a837be9ebe3d39112",
+    "startBalance": "297198193830",
+    "expectedAmount": "74900000000000000000",
+    "endBalance": "74900000297198193830",
+    "calculatedEnd": "74900000297198193830",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xc3b9194f879c370041967c67c19ac9eec9af739d",
+    "startBalance": "971200314252",
+    "expectedAmount": "74400000000000000000",
+    "endBalance": "74400000971200314252",
+    "calculatedEnd": "74400000971200314252",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xc5eae0735c1f34b894a518329239ee6b9d500122",
+    "startBalance": "399051279660940325422",
+    "expectedAmount": "73900000000000000000",
+    "endBalance": "472951279660940325422",
+    "calculatedEnd": "472951279660940325422",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x9e196c0ffc03cbeb5a0c845c57205f45786ea399",
+    "startBalance": "1989526293225633013",
+    "expectedAmount": "73600000000000000000",
+    "endBalance": "75589526293225633013",
+    "calculatedEnd": "75589526293225633013",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x8444e01d2dcecb25692ca5bd2fa06ef08fc072f6",
+    "startBalance": "0",
+    "expectedAmount": "73300000000000000000",
+    "endBalance": "73300000000000000000",
+    "calculatedEnd": "73300000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x7ec9467a62372f90c95ef0db704bd0cd075b2393",
+    "startBalance": "0",
+    "expectedAmount": "73100000000000000000",
+    "endBalance": "73100000000000000000",
+    "calculatedEnd": "73100000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x8fb8a78246518837bdfb9fc3247bf8fd556f2b2d",
+    "startBalance": "999795441023083892",
+    "expectedAmount": "72100000000000000000",
+    "endBalance": "73099795441023083892",
+    "calculatedEnd": "73099795441023083892",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xd4bd88987f9cb33d1248c83f8c9a317cb6de07db",
+    "startBalance": "1112351670579618510",
+    "expectedAmount": "71900000000000000000",
+    "endBalance": "73012351670579618510",
+    "calculatedEnd": "73012351670579618510",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x624e8245b1928a33f215941555433f7f3e234e74",
+    "startBalance": "0",
+    "expectedAmount": "71100000000000000000",
+    "endBalance": "71100000000000000000",
+    "calculatedEnd": "71100000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x75b26202e34a576d5a4fc49d98acc559920791d4",
+    "startBalance": "8367408219467281672",
+    "expectedAmount": "70300000000000000000",
+    "endBalance": "78667408219467281672",
+    "calculatedEnd": "78667408219467281672",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x382b831bbe72e93ca55792bec0272a282252b345",
+    "startBalance": "0",
+    "expectedAmount": "70200000000000000000",
+    "endBalance": "70200000000000000000",
+    "calculatedEnd": "70200000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xa007cba33b7025dbb371710782ca88a825caf8e0",
+    "startBalance": "31992186130098268138",
+    "expectedAmount": "70100000000000000000",
+    "endBalance": "102092186130098268138",
+    "calculatedEnd": "102092186130098268138",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x8b6f05df3cf4384f4b5af4d595f41bc8c25edf3f",
+    "startBalance": "0",
+    "expectedAmount": "69900000000000000000",
+    "endBalance": "69900000000000000000",
+    "calculatedEnd": "69900000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x40a08a4604da0762469f4c6d9dec1afec1f35358",
+    "startBalance": "14848161049508925061",
+    "expectedAmount": "69500000000000000000",
+    "endBalance": "84348161049508925061",
+    "calculatedEnd": "84348161049508925061",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x19440b5864a88afd7bf1ddcd1d01b2b13697a822",
+    "startBalance": "1753796973274876921",
+    "expectedAmount": "68200000000000000000",
+    "endBalance": "69953796973274876921",
+    "calculatedEnd": "69953796973274876921",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x3f197f099d7c3c026490309ab5382236a18339ef",
+    "startBalance": "14846899736771900895",
+    "expectedAmount": "67300000000000000000",
+    "endBalance": "82146899736771900895",
+    "calculatedEnd": "82146899736771900895",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x15bb0c94dc1c4ac73a777bf4786e811ef868d478",
+    "startBalance": "0",
+    "expectedAmount": "67200000000000000000",
+    "endBalance": "67200000000000000000",
+    "calculatedEnd": "67200000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x1288134ef88a2c6b042b08dcaa4889646f6ee8d4",
+    "startBalance": "0",
+    "expectedAmount": "65800000000000000000",
+    "endBalance": "65800000000000000000",
+    "calculatedEnd": "65800000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x4cf2e635427b652224cd78941fe309c4bc3acaad",
+    "startBalance": "728368774911",
+    "expectedAmount": "65300000000000000000",
+    "endBalance": "65300000728368774911",
+    "calculatedEnd": "65300000728368774911",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x2a942285dd51e18a1dee7e395e5a7077aef2fffc",
+    "startBalance": "2092814651430139405",
+    "expectedAmount": "64800000000000000000",
+    "endBalance": "66892814651430139405",
+    "calculatedEnd": "66892814651430139405",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x587dcaa91239fe14e818992497924a9de50ddb3f",
+    "startBalance": "45044000104965987000",
+    "expectedAmount": "64400000000000000000",
+    "endBalance": "109444000104965987000",
+    "calculatedEnd": "109444000104965987000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x74d0017c55a81035b20bff58be0f36cbf1105c4c",
+    "startBalance": "0",
+    "expectedAmount": "62600000000000000000",
+    "endBalance": "62600000000000000000",
+    "calculatedEnd": "62600000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x3a47d797aa4d509a7510645ab0c4c50130327ac4",
+    "startBalance": "25719263135272204193",
+    "expectedAmount": "62600000000000000000",
+    "endBalance": "88319263135272204193",
+    "calculatedEnd": "88319263135272204193",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xa85c3973d7078f60dec8ea69ae8b397f2aa3d836",
+    "startBalance": "0",
+    "expectedAmount": "61800000000000000000",
+    "endBalance": "61800000000000000000",
+    "calculatedEnd": "61800000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x1019c7bbbd273b0379f5914b96022d7dc8986133",
+    "startBalance": "0",
+    "expectedAmount": "61400000000000000000",
+    "endBalance": "61400000000000000000",
+    "calculatedEnd": "61400000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xa43784e8066e13b5b96f64538617466b17296bfc",
+    "startBalance": "235012776014013713",
+    "expectedAmount": "60000000000000000000",
+    "endBalance": "60235012776014013713",
+    "calculatedEnd": "60235012776014013713",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x8086160f64791d9bed6831b31a81e86a13be2b2c",
+    "startBalance": "1324757490884921034",
+    "expectedAmount": "60000000000000000000",
+    "endBalance": "61324757490884921034",
+    "calculatedEnd": "61324757490884921034",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x443c152bfd6d3578e90d1b24b47f7f4d9db78847",
+    "startBalance": "357092185341139413",
+    "expectedAmount": "60000000000000000000",
+    "endBalance": "60357092185341139413",
+    "calculatedEnd": "60357092185341139413",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xd36a5a7b60edba5b0201e4996e088d04781abab2",
+    "startBalance": "8847404918623653785",
+    "expectedAmount": "59900000000000000000",
+    "endBalance": "68747404918623653785",
+    "calculatedEnd": "68747404918623653785",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x6b69446d901b6fb8e062b96e24a9b985c96a58fd",
+    "startBalance": "0",
+    "expectedAmount": "59600000000000000000",
+    "endBalance": "59600000000000000000",
+    "calculatedEnd": "59600000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x202de5a6340022d0b8c930f0bd797f57b400fdc5",
+    "startBalance": "1990672514526454408",
+    "expectedAmount": "59400000000000000000",
+    "endBalance": "61390672514526454408",
+    "calculatedEnd": "61390672514526454408",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x543f7ccf5166ba9c8afb5e768accf9f401155370",
+    "startBalance": "4855154057215046487",
+    "expectedAmount": "58600000000000000000",
+    "endBalance": "63455154057215046487",
+    "calculatedEnd": "63455154057215046487",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xe1225bb0ab19f07312a617373e86a143d87beb5f",
+    "startBalance": "0",
+    "expectedAmount": "57900000000000000000",
+    "endBalance": "57900000000000000000",
+    "calculatedEnd": "57900000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xd789043d9f0ce364d44045b2df03d8f3caf36ad8",
+    "startBalance": "0",
+    "expectedAmount": "57900000000000000000",
+    "endBalance": "57900000000000000000",
+    "calculatedEnd": "57900000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xedc4a6b064aa31eca2e67ebaa009fbbd610c5c69",
+    "startBalance": "0",
+    "expectedAmount": "57700000000000000000",
+    "endBalance": "57700000000000000000",
+    "calculatedEnd": "57700000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x1c96274b432ace50af81e835b47a1ac106181cae",
+    "startBalance": "53924791504459002",
+    "expectedAmount": "56900000000000000000",
+    "endBalance": "56953924791504459002",
+    "calculatedEnd": "56953924791504459002",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xc3862f5a1dfd14ba4931d1a62d258ee76e631536",
+    "startBalance": "71409189273245157",
+    "expectedAmount": "56700000000000000000",
+    "endBalance": "56771409189273245157",
+    "calculatedEnd": "56771409189273245157",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xe7d8ee09282a3ec0b6c7635f527b1f605da74458",
+    "startBalance": "60932796891156335",
+    "expectedAmount": "56400000000000000000",
+    "endBalance": "56460932796891156335",
+    "calculatedEnd": "56460932796891156335",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x40bbd16236c991227bdaddac923ef3065dc25b4c",
+    "startBalance": "67904101843387220",
+    "expectedAmount": "56400000000000000000",
+    "endBalance": "56467904101843387220",
+    "calculatedEnd": "56467904101843387220",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x8163cfe5dc895cecdb7beb9786c87afa8b76d876",
+    "startBalance": "0",
+    "expectedAmount": "56300000000000000000",
+    "endBalance": "56300000000000000000",
+    "calculatedEnd": "56300000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xd30a2b2f6685a3192bbea36e05874a614bee6c8b",
+    "startBalance": "53402670260853451358",
+    "expectedAmount": "56100000000000000000",
+    "endBalance": "109502670260853451358",
+    "calculatedEnd": "109502670260853451358",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xab24796af2a0c81ed901bc24fb62ecb0fe1f1d1c",
+    "startBalance": "1791952550322088326",
+    "expectedAmount": "55800000000000000000",
+    "endBalance": "57591952550322088326",
+    "calculatedEnd": "57591952550322088326",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x228a131932c1c5f37f8a957aeec97bac0ce5470e",
+    "startBalance": "7649263131547683126",
+    "expectedAmount": "54200000000000000000",
+    "endBalance": "61849263131547683126",
+    "calculatedEnd": "61849263131547683126",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xc8a198b7b71f9d4cd7f786e0b602321be81eee53",
+    "startBalance": "911691745827399998",
+    "expectedAmount": "54100000000000000000",
+    "endBalance": "55011691745827399998",
+    "calculatedEnd": "55011691745827399998",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x730904115e61b3439df01d641ca54faaff4d4b56",
+    "startBalance": "99437880205940985",
+    "expectedAmount": "53800000000000000000",
+    "endBalance": "53899437880205940985",
+    "calculatedEnd": "53899437880205940985",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x2e7a1ebf72d4e6eda4c92569074d8d227d86c472",
+    "startBalance": "163065237076784866",
+    "expectedAmount": "53800000000000000000",
+    "endBalance": "53963065237076784866",
+    "calculatedEnd": "53963065237076784866",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x50649a44392fc1f91210f0a27bd92005368659e7",
+    "startBalance": "0",
+    "expectedAmount": "53300000000000000000",
+    "endBalance": "53300000000000000000",
+    "calculatedEnd": "53300000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xe55b276874813cbd94669ae5b76b414bc69a9caa",
+    "startBalance": "1614621986686599204",
+    "expectedAmount": "52200000000000000000",
+    "endBalance": "53814621986686599204",
+    "calculatedEnd": "53814621986686599204",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xc29bc87388efe7b62cb32993925e2287b72ea334",
+    "startBalance": "415713270390253756",
+    "expectedAmount": "52200000000000000000",
+    "endBalance": "52615713270390253756",
+    "calculatedEnd": "52615713270390253756",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xa925ce3e3255e566d0cbb6bb4f3f0b9472cb74fb",
+    "startBalance": "0",
+    "expectedAmount": "51600000000000000000",
+    "endBalance": "51600000000000000000",
+    "calculatedEnd": "51600000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xe3d17904566328bab5b1662be219923195554640",
+    "startBalance": "1061497266067618797",
+    "expectedAmount": "51200000000000000000",
+    "endBalance": "52261497266067618797",
+    "calculatedEnd": "52261497266067618797",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x9479c6bc5a31d2e1cf8caf82a39f322371ade964",
+    "startBalance": "1814501613958878566",
+    "expectedAmount": "50800000000000000000",
+    "endBalance": "52614501613958878566",
+    "calculatedEnd": "52614501613958878566",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xf21a6745f1353d738cbfa1f923f32de132cc05e4",
+    "startBalance": "4746588621668442864",
+    "expectedAmount": "50100000000000000000",
+    "endBalance": "54846588621668442864",
+    "calculatedEnd": "54846588621668442864",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x720da27c3961bd2fe995840a2c2860e1ba2c4276",
+    "startBalance": "362953027155215051",
+    "expectedAmount": "49400000000000000000",
+    "endBalance": "49762953027155215051",
+    "calculatedEnd": "49762953027155215051",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x454e2bf0658213073103a60458829908c225e90c",
+    "startBalance": "92431989031216036",
+    "expectedAmount": "49300000000000000000",
+    "endBalance": "49392431989031216036",
+    "calculatedEnd": "49392431989031216036",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xae60a1e6beae826baa541568aa6872bd1fc0e138",
+    "startBalance": "78414639268665182",
+    "expectedAmount": "49200000000000000000",
+    "endBalance": "49278414639268665182",
+    "calculatedEnd": "49278414639268665182",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xbb09bfd0742932c72807ba049f8a5e06c6463bae",
+    "startBalance": "85425051569126908",
+    "expectedAmount": "48500000000000000000",
+    "endBalance": "48585425051569126908",
+    "calculatedEnd": "48585425051569126908",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xf4b8b10999afe08966aa4a1d9a6596fb1697f2be",
+    "startBalance": "0",
+    "expectedAmount": "47300000000000000000",
+    "endBalance": "47300000000000000000",
+    "calculatedEnd": "47300000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xe61e74eddac813d5738ff19ecabbd6661958abc6",
+    "startBalance": "3108830707742308195",
+    "expectedAmount": "47100000000000000000",
+    "endBalance": "50208830707742308195",
+    "calculatedEnd": "50208830707742308195",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x2f29243f3867717155386b71cfbd0caaa52f7360",
+    "startBalance": "48407502472347",
+    "expectedAmount": "47100000000000000000",
+    "endBalance": "47100048407502472347",
+    "calculatedEnd": "47100048407502472347",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xf0dc07dacad572c4e9aed25dc962137688bd9e34",
+    "startBalance": "173854406459360485",
+    "expectedAmount": "46500000000000000000",
+    "endBalance": "46673854406459360485",
+    "calculatedEnd": "46673854406459360485",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xa9f27980a0da9266e21794f0338b080accab48dd",
+    "startBalance": "0",
+    "expectedAmount": "45000000000000000000",
+    "endBalance": "45000000000000000000",
+    "calculatedEnd": "45000000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x50e9ebdcc357b3223603e35cbeee729afd75cc91",
+    "startBalance": "6077375320482955729",
+    "expectedAmount": "44500000000000000000",
+    "endBalance": "50577375320482955729",
+    "calculatedEnd": "50577375320482955729",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xb8506ef0a6c574b11e1ea9b7218ce990d930f459",
+    "startBalance": "2558530403492373751",
+    "expectedAmount": "44100000000000000000",
+    "endBalance": "46658530403492373751",
+    "calculatedEnd": "46658530403492373751",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x3a27ba6061e55bc16230ca58a5270562c0dec123",
+    "startBalance": "13864953154360163719",
+    "expectedAmount": "44100000000000000000",
+    "endBalance": "57964953154360163719",
+    "calculatedEnd": "57964953154360163719",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xfba86c272df6f962f60999b132dcbb61f38acde4",
+    "startBalance": "0",
+    "expectedAmount": "42000000000000000000",
+    "endBalance": "42000000000000000000",
+    "calculatedEnd": "42000000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x9c5334d378db5720f416cce3a9f1a355981af2fa",
+    "startBalance": "0",
+    "expectedAmount": "41500000000000000000",
+    "endBalance": "41500000000000000000",
+    "calculatedEnd": "41500000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x46d8f5926f77c01b6068abc9eef66c8b52f157ec",
+    "startBalance": "1770695934021133929",
+    "expectedAmount": "41500000000000000000",
+    "endBalance": "43270695934021133929",
+    "calculatedEnd": "43270695934021133929",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x7046a1d116927fd9c5d2c2a97984c51d5ae1b871",
+    "startBalance": "0",
+    "expectedAmount": "40800000000000000000",
+    "endBalance": "40800000000000000000",
+    "calculatedEnd": "40800000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x4074a5c69a87497f648758ba10c8e9e4d9b8a7ff",
+    "startBalance": "0",
+    "expectedAmount": "40300000000000000000",
+    "endBalance": "40300000000000000000",
+    "calculatedEnd": "40300000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x8168f7592df8c1f7560c7eb9cba1df5ed044d9d6",
+    "startBalance": "0",
+    "expectedAmount": "40200000000000000000",
+    "endBalance": "40200000000000000000",
+    "calculatedEnd": "40200000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x6d74da3a59f9813db00efb23e4e7e486055b701d",
+    "startBalance": "0",
+    "expectedAmount": "39900000000000000000",
+    "endBalance": "39900000000000000000",
+    "calculatedEnd": "39900000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xbcf1783c80087ed021c83abaa1925dbda7a66572",
+    "startBalance": "10352379590749961406",
+    "expectedAmount": "39300000000000000000",
+    "endBalance": "49652379590749961406",
+    "calculatedEnd": "49652379590749961406",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x916b421552bb640791164277e8bb0adb109da634",
+    "startBalance": "0",
+    "expectedAmount": "38900000000000000000",
+    "endBalance": "38900000000000000000",
+    "calculatedEnd": "38900000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x697162e7b14c08ee2b97d6aab65323c986b7429c",
+    "startBalance": "0",
+    "expectedAmount": "38900000000000000000",
+    "endBalance": "38900000000000000000",
+    "calculatedEnd": "38900000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xfebf7231bfb8219ed325cad3305a6d6a8a2911bd",
+    "startBalance": "0",
+    "expectedAmount": "38800000000000000000",
+    "endBalance": "38800000000000000000",
+    "calculatedEnd": "38800000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xd7decaab955284ee9fb4b0b386a429325f256343",
+    "startBalance": "0",
+    "expectedAmount": "38800000000000000000",
+    "endBalance": "38800000000000000000",
+    "calculatedEnd": "38800000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xe8c205de6873e4e98a1c935a749501c181dd6071",
+    "startBalance": "0",
+    "expectedAmount": "38700000000000000000",
+    "endBalance": "38700000000000000000",
+    "calculatedEnd": "38700000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x88706857beb2e831ae3c596aa758a85c40de2299",
+    "startBalance": "0",
+    "expectedAmount": "38700000000000000000",
+    "endBalance": "38700000000000000000",
+    "calculatedEnd": "38700000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x3951492eb7c189366cc9cd1566283fae48e403a9",
+    "startBalance": "0",
+    "expectedAmount": "38700000000000000000",
+    "endBalance": "38700000000000000000",
+    "calculatedEnd": "38700000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x09ac2fc49e06d53c878c6982af6f347dd82202c3",
+    "startBalance": "1054209248309092304",
+    "expectedAmount": "38600000000000000000",
+    "endBalance": "39654209248309092304",
+    "calculatedEnd": "39654209248309092304",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xc3f8afd8ba097e78348d25c3f981d340fd9f39ae",
+    "startBalance": "0",
+    "expectedAmount": "38500000000000000000",
+    "endBalance": "38500000000000000000",
+    "calculatedEnd": "38500000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xea98a37ce62f2342a3eb0ad9edd9181c383d8958",
+    "startBalance": "13550208995348",
+    "expectedAmount": "37600000000000000000",
+    "endBalance": "37600013550208995348",
+    "calculatedEnd": "37600013550208995348",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xab71356dee18dab455d698c750585fd53efc45bb",
+    "startBalance": "0",
+    "expectedAmount": "37400000000000000000",
+    "endBalance": "37400000000000000000",
+    "calculatedEnd": "37400000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x000683a18db9ccce193b63c5173badde2142abfb",
+    "startBalance": "958886746399",
+    "expectedAmount": "36300000000000000000",
+    "endBalance": "36300000958886746399",
+    "calculatedEnd": "36300000958886746399",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xc6f3c61bb337e3470f81c881aa3516c4ad7eddd5",
+    "startBalance": "9840009803135104193",
+    "expectedAmount": "36200000000000000000",
+    "endBalance": "46040009803135104193",
+    "calculatedEnd": "46040009803135104193",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x4b47052498d469ac9521606a67d6f02afeb0985a",
+    "startBalance": "223677660779320376",
+    "expectedAmount": "36200000000000000000",
+    "endBalance": "36423677660779320376",
+    "calculatedEnd": "36423677660779320376",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xbd0bfa0cf5ccbbd99e20095c073adf1fc74270a1",
+    "startBalance": "5236784979707968700",
+    "expectedAmount": "35700000000000000000",
+    "endBalance": "40936784979707968700",
+    "calculatedEnd": "40936784979707968700",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x942a8b26cc5030c36ca923e537956655717d6c4f",
+    "startBalance": "2222701737204850397",
+    "expectedAmount": "35600000000000000000",
+    "endBalance": "37822701737204850397",
+    "calculatedEnd": "37822701737204850397",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xfaea585399a6ab3b72f9e75f7f6a0d9adb5f6623",
+    "startBalance": "4144727852458544042",
+    "expectedAmount": "34700000000000000000",
+    "endBalance": "38844727852458544042",
+    "calculatedEnd": "38844727852458544042",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x9969f990668f1a19f2ee467ec096a4efb64a6712",
+    "startBalance": "0",
+    "expectedAmount": "34600000000000000000",
+    "endBalance": "34600000000000000000",
+    "calculatedEnd": "34600000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xae7e2aa76f463ca04812906f9c8c3d870704bd8d",
+    "startBalance": "1387798185739043835",
+    "expectedAmount": "34400000000000000000",
+    "endBalance": "35787798185739043835",
+    "calculatedEnd": "35787798185739043835",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x9b37bb25209ebaf6e16a9b2c02fa6a10c3dd1349",
+    "startBalance": "0",
+    "expectedAmount": "34300000000000000000",
+    "endBalance": "34300000000000000000",
+    "calculatedEnd": "34300000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xac36c962d1a7880d683c51d1c168078dac2add12",
+    "startBalance": "210797445836",
+    "expectedAmount": "33400000000000000000",
+    "endBalance": "33400000210797445836",
+    "calculatedEnd": "33400000210797445836",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x42d19f649b7460ee7e1e917c4a22f3e920355ccf",
+    "startBalance": "0",
+    "expectedAmount": "32800000000000000000",
+    "endBalance": "32800000000000000000",
+    "calculatedEnd": "32800000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xc8ddaf64c4198a292658d3bd946cff86b392cbf8",
+    "startBalance": "820920526257111580",
+    "expectedAmount": "32700000000000000000",
+    "endBalance": "33520920526257111580",
+    "calculatedEnd": "33520920526257111580",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xf4fb6f1a84eae65f20c9bc53c9f4bec9b733526d",
+    "startBalance": "0",
+    "expectedAmount": "32200000000000000000",
+    "endBalance": "32200000000000000000",
+    "calculatedEnd": "32200000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xe4b0ff73d94fb2c717022923aef6d7c34e3a330d",
+    "startBalance": "0",
+    "expectedAmount": "32000000000000000000",
+    "endBalance": "32000000000000000000",
+    "calculatedEnd": "32000000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xb8d58ef66525befa3bd3705b001422ca04a96e07",
+    "startBalance": "0",
+    "expectedAmount": "32000000000000000000",
+    "endBalance": "32000000000000000000",
+    "calculatedEnd": "32000000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xa6c0fcf9de027b74d7c851d6fc0bc29adf3115f8",
+    "startBalance": "0",
+    "expectedAmount": "32000000000000000000",
+    "endBalance": "32000000000000000000",
+    "calculatedEnd": "32000000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x8a026e513f0810f994d872020b3d1d832103d93c",
+    "startBalance": "0",
+    "expectedAmount": "32000000000000000000",
+    "endBalance": "32000000000000000000",
+    "calculatedEnd": "32000000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x68461d5b195502ef62f34b82636fe557730cda20",
+    "startBalance": "0",
+    "expectedAmount": "32000000000000000000",
+    "endBalance": "32000000000000000000",
+    "calculatedEnd": "32000000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x623af4933a5fa31ac834c4c22f24690076e1699a",
+    "startBalance": "0",
+    "expectedAmount": "32000000000000000000",
+    "endBalance": "32000000000000000000",
+    "calculatedEnd": "32000000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x250dbc2ba40ef5edc5da223be2bed812eeb63286",
+    "startBalance": "0",
+    "expectedAmount": "32000000000000000000",
+    "endBalance": "32000000000000000000",
+    "calculatedEnd": "32000000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x053a0a998329f3b5d23ef2697b51cf4c10c65953",
+    "startBalance": "0",
+    "expectedAmount": "32000000000000000000",
+    "endBalance": "32000000000000000000",
+    "calculatedEnd": "32000000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x868b66eb770663c3911eaadcf17840c1aa24f8c1",
+    "startBalance": "5148717472087020035",
+    "expectedAmount": "31800000000000000000",
+    "endBalance": "36948717472087020035",
+    "calculatedEnd": "36948717472087020035",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x17d518736ee9341dcdc0a2498e013d33cfcdd080",
+    "startBalance": "0",
+    "expectedAmount": "30400000000000000000",
+    "endBalance": "30400000000000000000",
+    "calculatedEnd": "30400000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xfcf8acece49eaec6169b9f6d13accba3903affeb",
+    "startBalance": "40651073680664088458",
+    "expectedAmount": "30100000000000000000",
+    "endBalance": "70751073680664088458",
+    "calculatedEnd": "70751073680664088458",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x36fef7f36705169816e44ff1070ac3f6ad796bf6",
+    "startBalance": "1851025480736261966",
+    "expectedAmount": "30100000000000000000",
+    "endBalance": "31951025480736261966",
+    "calculatedEnd": "31951025480736261966",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x4d151671bfd0d3c72f74b5fb09ea400235ab17c3",
+    "startBalance": "2618379663226525533",
+    "expectedAmount": "29800000000000000000",
+    "endBalance": "32418379663226525533",
+    "calculatedEnd": "32418379663226525533",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x5bd660521717b05fa1643209d9c727fce4d8116f",
+    "startBalance": "4642313738119427299",
+    "expectedAmount": "29700000000000000000",
+    "endBalance": "34342313738119427299",
+    "calculatedEnd": "34342313738119427299",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xda9330b63451adfdb2c2b5aa8d877256cc7918e5",
+    "startBalance": "783295732532",
+    "expectedAmount": "29300000000000000000",
+    "endBalance": "29300000783295732532",
+    "calculatedEnd": "29300000783295732532",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x6f1e8b7d7c4532b0297774b4bc7e8db56e21102c",
+    "startBalance": "5041848550370730004",
+    "expectedAmount": "28900000000000000000",
+    "endBalance": "33941848550370730004",
+    "calculatedEnd": "33941848550370730004",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xf8d1d4177b213de9a788f30fdba215a113313198",
+    "startBalance": "0",
+    "expectedAmount": "27500000000000000000",
+    "endBalance": "27500000000000000000",
+    "calculatedEnd": "27500000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xbe285219331bc9f0342fa62c3b532788001c0d2a",
+    "startBalance": "28244171902679411949",
+    "expectedAmount": "26500000000000000000",
+    "endBalance": "54744171902679411949",
+    "calculatedEnd": "54744171902679411949",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x4a94522351a9ca321cd5dfa4c349101a47a1752d",
+    "startBalance": "0",
+    "expectedAmount": "25400000000000000000",
+    "endBalance": "25400000000000000000",
+    "calculatedEnd": "25400000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x0bc74e46ac03789a27158fd53b2dffc4e7e2525c",
+    "startBalance": "100018704273702011035",
+    "expectedAmount": "24500000000000000000",
+    "endBalance": "124518704273702011035",
+    "calculatedEnd": "124518704273702011035",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x926fc02c90efecc0085320fee1437a1cc80a776f",
+    "startBalance": "631771123368037856",
+    "expectedAmount": "23600000000000000000",
+    "endBalance": "24231771123368037856",
+    "calculatedEnd": "24231771123368037856",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xf498fa9d68d20dc6975dafedce7c3650b051b8b3",
+    "startBalance": "0",
+    "expectedAmount": "22700000000000000000",
+    "endBalance": "22700000000000000000",
+    "calculatedEnd": "22700000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x79d7bbf2b0daffaa191efac437bf26288ebb9940",
+    "startBalance": "200000000000000000000",
+    "expectedAmount": "21500000000000000000",
+    "endBalance": "221500000000000000000",
+    "calculatedEnd": "221500000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xab080d3e1f79c113224dc2ff049dcb99f82cb9ce",
+    "startBalance": "0",
+    "expectedAmount": "21100000000000000000",
+    "endBalance": "21100000000000000000",
+    "calculatedEnd": "21100000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x76e83d71618509368ec3d34008fcea83af037d87",
+    "startBalance": "0",
+    "expectedAmount": "20400000000000000000",
+    "endBalance": "20400000000000000000",
+    "calculatedEnd": "20400000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x8d5e41bb155faf38f6dea54053be128b088956b7",
+    "startBalance": "1113048720632668481",
+    "expectedAmount": "19200000000000000000",
+    "endBalance": "20313048720632668481",
+    "calculatedEnd": "20313048720632668481",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x87d6c2df524fae119815f97d29a5e5edd2586e85",
+    "startBalance": "0",
+    "expectedAmount": "18700000000000000000",
+    "endBalance": "18700000000000000000",
+    "calculatedEnd": "18700000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xa6583617bab73f18d1db30a5aa4ebe4da4af581b",
+    "startBalance": "8347047478108926329",
+    "expectedAmount": "18400000000000000000",
+    "endBalance": "26747047478108926329",
+    "calculatedEnd": "26747047478108926329",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x2da9dc786f55a3b64ad1a4f69719d55d63e1cc89",
+    "startBalance": "732949467273396605",
+    "expectedAmount": "18100000000000000000",
+    "endBalance": "18832949467273396605",
+    "calculatedEnd": "18832949467273396605",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x7c327de8653e48dbdc9cefd61a9979ddbcecd354",
+    "startBalance": "0",
+    "expectedAmount": "17500000000000000000",
+    "endBalance": "17500000000000000000",
+    "calculatedEnd": "17500000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x67321cf415e0a6ffa109f1ea4188989ce4df23a4",
+    "startBalance": "32561540101047594292",
+    "expectedAmount": "16300000000000000000",
+    "endBalance": "48861540101047594292",
+    "calculatedEnd": "48861540101047594292",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x2a45802b36404d290f54388084c2d1bf1e465b70",
+    "startBalance": "343255026800000000",
+    "expectedAmount": "16200000000000000000",
+    "endBalance": "16543255026800000000",
+    "calculatedEnd": "16543255026800000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x53e803c30ff8bf3dbe0de385a079fc2b375c8749",
+    "startBalance": "6387536821145385573",
+    "expectedAmount": "15300000000000000000",
+    "endBalance": "21687536821145385573",
+    "calculatedEnd": "21687536821145385573",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x1f6842fa6a852410a25c0bda122297fe6e7b7faf",
+    "startBalance": "0",
+    "expectedAmount": "15200000000000000000",
+    "endBalance": "15200000000000000000",
+    "calculatedEnd": "15200000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x50695745afa04efc0b7a1c27ba495752fd3663c0",
+    "startBalance": "14175551542291620027",
+    "expectedAmount": "14600000000000000000",
+    "endBalance": "28775551542291620027",
+    "calculatedEnd": "28775551542291620027",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x4746dec2c17b09487f134c3baba27d9c331a043b",
+    "startBalance": "11063168644779769941",
+    "expectedAmount": "14500000000000000000",
+    "endBalance": "25563168644779769941",
+    "calculatedEnd": "25563168644779769941",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xd02b29d6bbff552ab7824fd253358b10d86dd406",
+    "startBalance": "0",
+    "expectedAmount": "14200000000000000000",
+    "endBalance": "14200000000000000000",
+    "calculatedEnd": "14200000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x344f7146ac906a329ae3ec9cc87c7e580e29d8fd",
+    "startBalance": "0",
+    "expectedAmount": "14000000000000000000",
+    "endBalance": "14000000000000000000",
+    "calculatedEnd": "14000000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x61a753cd00fc4738f24a6600d791d00404bcc0d9",
+    "startBalance": "195712338574363727665",
+    "expectedAmount": "13800000000000000000",
+    "endBalance": "209512338574363727665",
+    "calculatedEnd": "209512338574363727665",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x538ea2b210491aa029935c0af6370b8ff474293a",
+    "startBalance": "9621775998856569080",
+    "expectedAmount": "13500000000000000000",
+    "endBalance": "23121775998856569080",
+    "calculatedEnd": "23121775998856569080",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xb7e53773171b5ef697db07ea7766e82b6189e9b2",
+    "startBalance": "14003975449452231560",
+    "expectedAmount": "13200000000000000000",
+    "endBalance": "27203975449452231560",
+    "calculatedEnd": "27203975449452231560",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x0e54e94d8a48455985859c2eb701ead03594d901",
+    "startBalance": "11070326219545790532",
+    "expectedAmount": "12200000000000000000",
+    "endBalance": "23270326219545790532",
+    "calculatedEnd": "23270326219545790532",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xa3be0c82f6784a12a323cd07cfba3e834edfe5fb",
+    "startBalance": "9568986632016489455",
+    "expectedAmount": "12100000000000000000",
+    "endBalance": "21668986632016489455",
+    "calculatedEnd": "21668986632016489455",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x492f510e0b359aa92cd10e9d28d3f848ab421c6a",
+    "startBalance": "0",
+    "expectedAmount": "12100000000000000000",
+    "endBalance": "12100000000000000000",
+    "calculatedEnd": "12100000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x09eda46d201e3c004e9bda98f313630306b5801d",
+    "startBalance": "0",
+    "expectedAmount": "12000000000000000000",
+    "endBalance": "12000000000000000000",
+    "calculatedEnd": "12000000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x41c5282ad1174490ea2cd5c8d7e43617f06f530c",
+    "startBalance": "11237058545452690764",
+    "expectedAmount": "11700000000000000000",
+    "endBalance": "22937058545452690764",
+    "calculatedEnd": "22937058545452690764",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x7d344619d76b9e9ad09d36fc19a30ecdd02d8b2f",
+    "startBalance": "76502311324",
+    "expectedAmount": "11600000000000000000",
+    "endBalance": "11600000076502311324",
+    "calculatedEnd": "11600000076502311324",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xfae6f9e381f91de413430d026e6a522a2fb2e0b8",
+    "startBalance": "0",
+    "expectedAmount": "11500000000000000000",
+    "endBalance": "11500000000000000000",
+    "calculatedEnd": "11500000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xa404e152914d5b9a792dbcbc11019f1dccf3e560",
+    "startBalance": "2673941345799923765",
+    "expectedAmount": "11200000000000000000",
+    "endBalance": "13873941345799923765",
+    "calculatedEnd": "13873941345799923765",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x33c6ba68854d8d0f936be3999fdf2c8e90a75e70",
+    "startBalance": "14162497455598802939",
+    "expectedAmount": "10900000000000000000",
+    "endBalance": "25062497455598802939",
+    "calculatedEnd": "25062497455598802939",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x6a859e58e30d2cb8bd33d7b842e397cea136c5d5",
+    "startBalance": "60236264213414606",
+    "expectedAmount": "10700000000000000000",
+    "endBalance": "10760236264213414606",
+    "calculatedEnd": "10760236264213414606",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xd26d750bcdc8a44eb3954a8da8ccaf841356c265",
+    "startBalance": "6156242124837160805",
+    "expectedAmount": "10600000000000000000",
+    "endBalance": "16756242124837160805",
+    "calculatedEnd": "16756242124837160805",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x0ddee199a727359fdaa249c4841c8d6fa5440cd6",
+    "startBalance": "94042745823680992588",
+    "expectedAmount": "10400000000000000000",
+    "endBalance": "104442745823680992588",
+    "calculatedEnd": "104442745823680992588",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xc419ec29daca416514668de21e9c4e9434119de3",
+    "startBalance": "191196459290145726",
+    "expectedAmount": "9300000000000000000",
+    "endBalance": "9491196459290145726",
+    "calculatedEnd": "9491196459290145726",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x6a1873bed47192bacfe3738b26b271f90d66c813",
+    "startBalance": "14636007059549493137",
+    "expectedAmount": "9300000000000000000",
+    "endBalance": "23936007059549493137",
+    "calculatedEnd": "23936007059549493137",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x9de651c3918c148ec1e0a4302bb94229c512d3f0",
+    "startBalance": "34643561197785773566",
+    "expectedAmount": "9000000000000000000",
+    "endBalance": "43643561197785773566",
+    "calculatedEnd": "43643561197785773566",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xf0d513941d37126ac96bf37efb0028ac15c77af5",
+    "startBalance": "740940146695389410",
+    "expectedAmount": "8500000000000000000",
+    "endBalance": "9240940146695389410",
+    "calculatedEnd": "9240940146695389410",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x5db5c2eef397a54cf26f0c0d2d906e480db55e67",
+    "startBalance": "0",
+    "expectedAmount": "7700000000000000000",
+    "endBalance": "7700000000000000000",
+    "calculatedEnd": "7700000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x597f31cd8622ca08eb60d1969533208847dfa7b9",
+    "startBalance": "0",
+    "expectedAmount": "7600000000000000000",
+    "endBalance": "7600000000000000000",
+    "calculatedEnd": "7600000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x4b298e988079ab2fba509810fd712d82305a1e4f",
+    "startBalance": "0",
+    "expectedAmount": "7300000000000000000",
+    "endBalance": "7300000000000000000",
+    "calculatedEnd": "7300000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xe6ec7f3155bf378a24b93677eff2ccf05def231d",
+    "startBalance": "668448235293039865",
+    "expectedAmount": "7100000000000000000",
+    "endBalance": "7768448235293039865",
+    "calculatedEnd": "7768448235293039865",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x85b3a0f1157c644968ea903adae88efa5a607785",
+    "startBalance": "64863056773206955545",
+    "expectedAmount": "6700000000000000000",
+    "endBalance": "71563056773206955545",
+    "calculatedEnd": "71563056773206955545",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x21e65642d7ce4c88ef6edc5acfa086a6d3af8060",
+    "startBalance": "2657294915961456227",
+    "expectedAmount": "6600000000000000000",
+    "endBalance": "9257294915961456227",
+    "calculatedEnd": "9257294915961456227",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x167a873dca0e1c69d058aa76659a699df7b5eeed",
+    "startBalance": "198125751056725823",
+    "expectedAmount": "6500000000000000000",
+    "endBalance": "6698125751056725823",
+    "calculatedEnd": "6698125751056725823",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xeb98df62f48ddd086f7a687d176d7a7b73cdb011",
+    "startBalance": "102087991001269267553",
+    "expectedAmount": "6300000000000000000",
+    "endBalance": "108387991001269267553",
+    "calculatedEnd": "108387991001269267553",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x39afa2d5f7b577e68e18864b6625d647a7e14b66",
+    "startBalance": "0",
+    "expectedAmount": "6300000000000000000",
+    "endBalance": "6300000000000000000",
+    "calculatedEnd": "6300000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x4dea4d1414d43f8473830a4c64fe0d5e797ca5b8",
+    "startBalance": "83350935722754047",
+    "expectedAmount": "6100000000000000000",
+    "endBalance": "6183350935722754047",
+    "calculatedEnd": "6183350935722754047",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x339b9db6296ae0983630e3f2d5d69135da914350",
+    "startBalance": "1000000383163723000",
+    "expectedAmount": "5900000000000000000",
+    "endBalance": "6900000383163723000",
+    "calculatedEnd": "6900000383163723000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x58bf9a39e4d5e48a5314eb6a19cf5cd51ee809b4",
+    "startBalance": "58572925588999674493",
+    "expectedAmount": "5800000000000000000",
+    "endBalance": "64372925588999674493",
+    "calculatedEnd": "64372925588999674493",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x17d657b0c02f41493494df751d7b8d475ff1333d",
+    "startBalance": "0",
+    "expectedAmount": "5800000000000000000",
+    "endBalance": "5800000000000000000",
+    "calculatedEnd": "5800000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x9c81797304068fe0668c552bc7563ec2cc6dca81",
+    "startBalance": "0",
+    "expectedAmount": "5600000000000000000",
+    "endBalance": "5600000000000000000",
+    "calculatedEnd": "5600000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x65bd97a7da85a2b727241bd8ae052408d521f3fa",
+    "startBalance": "0",
+    "expectedAmount": "5600000000000000000",
+    "endBalance": "5600000000000000000",
+    "calculatedEnd": "5600000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xce3f71c4671602d20ca766c2805dd85ab21b8ba4",
+    "startBalance": "356392088043682129",
+    "expectedAmount": "5500000000000000000",
+    "endBalance": "5856392088043682129",
+    "calculatedEnd": "5856392088043682129",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x6ba7b6406e12a4c6dc6f96c4c7da06c9ddbf3022",
+    "startBalance": "0",
+    "expectedAmount": "5500000000000000000",
+    "endBalance": "5500000000000000000",
+    "calculatedEnd": "5500000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xfb67f29698cf843efadb28d2cea1d6549abaf474",
+    "startBalance": "0",
+    "expectedAmount": "5100000000000000000",
+    "endBalance": "5100000000000000000",
+    "calculatedEnd": "5100000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x4d1d2538a7e7fe091ffa78ee6e120461af4e64fd",
+    "startBalance": "0",
+    "expectedAmount": "5100000000000000000",
+    "endBalance": "5100000000000000000",
+    "calculatedEnd": "5100000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x362a9bdafa550450f0d2d6344dbca1ed38b47a8a",
+    "startBalance": "0",
+    "expectedAmount": "4900000000000000000",
+    "endBalance": "4900000000000000000",
+    "calculatedEnd": "4900000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xc757281985fcae825a6aaa6233a900e7b15ce677",
+    "startBalance": "0",
+    "expectedAmount": "4700000000000000000",
+    "endBalance": "4700000000000000000",
+    "calculatedEnd": "4700000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xc7547eb6bd591344fce95a8316e62dbaf39deb22",
+    "startBalance": "20636186613203515887",
+    "expectedAmount": "4700000000000000000",
+    "endBalance": "25336186613203515887",
+    "calculatedEnd": "25336186613203515887",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x34db0b90651b78c7a23ea369733ef167ec661bea",
+    "startBalance": "0",
+    "expectedAmount": "4600000000000000000",
+    "endBalance": "4600000000000000000",
+    "calculatedEnd": "4600000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x895e9a0fcc48db100e90bba81971df69d70e6d02",
+    "startBalance": "0",
+    "expectedAmount": "4500000000000000000",
+    "endBalance": "4500000000000000000",
+    "calculatedEnd": "4500000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x47b5a3662a6614b4ecfaab5ed3d50a7e1ba469d6",
+    "startBalance": "0",
+    "expectedAmount": "4500000000000000000",
+    "endBalance": "4500000000000000000",
+    "calculatedEnd": "4500000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x8ce308465c134f6a14d04bc0bd05d9fcf1e7f258",
+    "startBalance": "740000000000000000",
+    "expectedAmount": "4400000000000000000",
+    "endBalance": "5140000000000000000",
+    "calculatedEnd": "5140000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x75b956c11c789390e674142ebff87e08ea9e5923",
+    "startBalance": "21070584008070571747",
+    "expectedAmount": "4400000000000000000",
+    "endBalance": "25470584008070571747",
+    "calculatedEnd": "25470584008070571747",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x6a0ece95c9a0e5ffd8cc4befc168b518e6574559",
+    "startBalance": "740000000000000000",
+    "expectedAmount": "4400000000000000000",
+    "endBalance": "5140000000000000000",
+    "calculatedEnd": "5140000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x43ffec45b809d18b8ca25df9ee624cc05273b35f",
+    "startBalance": "740000000000000000",
+    "expectedAmount": "4400000000000000000",
+    "endBalance": "5140000000000000000",
+    "calculatedEnd": "5140000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x89025ec77e9afc51da279227a9be751975d3544e",
+    "startBalance": "21933794910077773942",
+    "expectedAmount": "4300000000000000000",
+    "endBalance": "26233794910077773942",
+    "calculatedEnd": "26233794910077773942",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xc76f91038c23ceeadecaac473c1ac5168e100567",
+    "startBalance": "40527537175175420006",
+    "expectedAmount": "4200000000000000000",
+    "endBalance": "44727537175175420006",
+    "calculatedEnd": "44727537175175420006",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x04738a5218560e7c8aa8fcef38c2b18dab4a95dd",
+    "startBalance": "30000000000000",
+    "expectedAmount": "4200000000000000000",
+    "endBalance": "4200030000000000000",
+    "calculatedEnd": "4200030000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xd2d408a90b54ba4fa2b11b26715c689c230e3e95",
+    "startBalance": "0",
+    "expectedAmount": "4100000000000000000",
+    "endBalance": "4100000000000000000",
+    "calculatedEnd": "4100000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x43cef6b7caeb3a8800b81a6e5cb0f0902c58b33d",
+    "startBalance": "30141045508051977338",
+    "expectedAmount": "4100000000000000000",
+    "endBalance": "34241045508051977338",
+    "calculatedEnd": "34241045508051977338",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x23244cfeb60314b7dda1ea527961728aeea7f1ab",
+    "startBalance": "1720100000000000000",
+    "expectedAmount": "4100000000000000000",
+    "endBalance": "5820100000000000000",
+    "calculatedEnd": "5820100000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x7fde75d38793975a3d33ea2f1a0cb431a1836368",
+    "startBalance": "0",
+    "expectedAmount": "4000000000000000000",
+    "endBalance": "4000000000000000000",
+    "calculatedEnd": "4000000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x275b1224eaca17e04e8c160259867a937e8af249",
+    "startBalance": "0",
+    "expectedAmount": "4000000000000000000",
+    "endBalance": "4000000000000000000",
+    "calculatedEnd": "4000000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xff72d1ce68cd10574b20364f8d764bc0fbf67243",
+    "startBalance": "21457491335088124893",
+    "expectedAmount": "3500000000000000000",
+    "endBalance": "24957491335088124893",
+    "calculatedEnd": "24957491335088124893",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xda0bd96ef313b47c72cbd06db868e309082b5054",
+    "startBalance": "21939005069692272922",
+    "expectedAmount": "3500000000000000000",
+    "endBalance": "25439005069692272922",
+    "calculatedEnd": "25439005069692272922",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xcb8f890eb6407c5ee3fdcf87055fd9ce9ccc94e7",
+    "startBalance": "20980365060559626080",
+    "expectedAmount": "3500000000000000000",
+    "endBalance": "24480365060559626080",
+    "calculatedEnd": "24480365060559626080",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x99f318f35dff66f8ada9ea1eac760a823e8728f8",
+    "startBalance": "21328752327791842467",
+    "expectedAmount": "3500000000000000000",
+    "endBalance": "24828752327791842467",
+    "calculatedEnd": "24828752327791842467",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x71fa79d356e87f42c4f33cdb15870c137df68de5",
+    "startBalance": "20975304516019294284",
+    "expectedAmount": "3500000000000000000",
+    "endBalance": "24475304516019294284",
+    "calculatedEnd": "24475304516019294284",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x5dce5c5ecd5f1764836398ad7e2a1ebb0fa24ac4",
+    "startBalance": "2518162872066597064",
+    "expectedAmount": "3500000000000000000",
+    "endBalance": "6018162872066597064",
+    "calculatedEnd": "6018162872066597064",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x3f360fce2c00062eff0e12f05a322aea04da4d36",
+    "startBalance": "0",
+    "expectedAmount": "3500000000000000000",
+    "endBalance": "3500000000000000000",
+    "calculatedEnd": "3500000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x1f58667dcb260e6e831fc69cdd83ae683d88f199",
+    "startBalance": "21200022311565994253",
+    "expectedAmount": "3500000000000000000",
+    "endBalance": "24700022311565994253",
+    "calculatedEnd": "24700022311565994253",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x1a9806e609238af69e0fb6f6a9b7acf648b8a3d3",
+    "startBalance": "21363690618484315486",
+    "expectedAmount": "3500000000000000000",
+    "endBalance": "24863690618484315486",
+    "calculatedEnd": "24863690618484315486",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x0b2b7782aef4c5097dd99106063c67805c38f0a6",
+    "startBalance": "0",
+    "expectedAmount": "3500000000000000000",
+    "endBalance": "3500000000000000000",
+    "calculatedEnd": "3500000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xd68ed134c487d28bec85d0bd5aafde65a07a958f",
+    "startBalance": "0",
+    "expectedAmount": "3400000000000000000",
+    "endBalance": "3400000000000000000",
+    "calculatedEnd": "3400000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xfc58928352ad0cf1d21046ddc8b5909d1fa32c1a",
+    "startBalance": "587290111923184459",
+    "expectedAmount": "3300000000000000000",
+    "endBalance": "3887290111923184459",
+    "calculatedEnd": "3887290111923184459",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xdf8fc22126d58f14f62957d1173f04d19d571905",
+    "startBalance": "0",
+    "expectedAmount": "3300000000000000000",
+    "endBalance": "3300000000000000000",
+    "calculatedEnd": "3300000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x9105766acd092d6c0bad7f06852cd1864b92c654",
+    "startBalance": "0",
+    "expectedAmount": "3300000000000000000",
+    "endBalance": "3300000000000000000",
+    "calculatedEnd": "3300000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x24161abd3d6e857ca8a6cedf956b55d019946f18",
+    "startBalance": "0",
+    "expectedAmount": "3200000000000000000",
+    "endBalance": "3200000000000000000",
+    "calculatedEnd": "3200000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x2b960696145d8a350ea6487789a184ea3600c51a",
+    "startBalance": "0",
+    "expectedAmount": "3100000000000000000",
+    "endBalance": "3100000000000000000",
+    "calculatedEnd": "3100000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xec2351147b8dbcc6513376802c0d5646fed0b6ae",
+    "startBalance": "0",
+    "expectedAmount": "3000000000000000000",
+    "endBalance": "3000000000000000000",
+    "calculatedEnd": "3000000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x003f809dd11c5688ffc21404e153fa6aa9dd2a40",
+    "startBalance": "0",
+    "expectedAmount": "3000000000000000000",
+    "endBalance": "3000000000000000000",
+    "calculatedEnd": "3000000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xf080adb58527dea46cb397d8260f1455e525c983",
+    "startBalance": "0",
+    "expectedAmount": "2700000000000000000",
+    "endBalance": "2700000000000000000",
+    "calculatedEnd": "2700000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x53640fc8698589bbbd9485ee23ed43584d05f0bb",
+    "startBalance": "0",
+    "expectedAmount": "2700000000000000000",
+    "endBalance": "2700000000000000000",
+    "calculatedEnd": "2700000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xfa7597d2817124ba793d65280068bdf11b3f6644",
+    "startBalance": "0",
+    "expectedAmount": "2600000000000000000",
+    "endBalance": "2600000000000000000",
+    "calculatedEnd": "2600000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xdd55c7efa47fc6cf9e714ad5ac3b77e4f0238279",
+    "startBalance": "0",
+    "expectedAmount": "2600000000000000000",
+    "endBalance": "2600000000000000000",
+    "calculatedEnd": "2600000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xbd29640a66e24a020168c3688d03310951d2fa66",
+    "startBalance": "0",
+    "expectedAmount": "2600000000000000000",
+    "endBalance": "2600000000000000000",
+    "calculatedEnd": "2600000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x8660bf2a449c7d370ba907307c97525e590e5959",
+    "startBalance": "0",
+    "expectedAmount": "2600000000000000000",
+    "endBalance": "2600000000000000000",
+    "calculatedEnd": "2600000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x70e11f3289a16cef91dc6a41e370aef52a545c30",
+    "startBalance": "0",
+    "expectedAmount": "2600000000000000000",
+    "endBalance": "2600000000000000000",
+    "calculatedEnd": "2600000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x5baa0c2616f89fa46b5ad405ab944db015452f11",
+    "startBalance": "0",
+    "expectedAmount": "2600000000000000000",
+    "endBalance": "2600000000000000000",
+    "calculatedEnd": "2600000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x4b2ed206f7f9bb0536106063dcdb6040a877b334",
+    "startBalance": "0",
+    "expectedAmount": "2600000000000000000",
+    "endBalance": "2600000000000000000",
+    "calculatedEnd": "2600000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xbeadc48b319aa4349fa29afa5e9e88f44470349c",
+    "startBalance": "0",
+    "expectedAmount": "2500000000000000000",
+    "endBalance": "2500000000000000000",
+    "calculatedEnd": "2500000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xbe7a6f71b6961cd1493d61416014925a3c576470",
+    "startBalance": "0",
+    "expectedAmount": "2500000000000000000",
+    "endBalance": "2500000000000000000",
+    "calculatedEnd": "2500000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x5678298b0a0b828242641a202ce132000166dbc4",
+    "startBalance": "3064638371974175853",
+    "expectedAmount": "2500000000000000000",
+    "endBalance": "5564638371974175853",
+    "calculatedEnd": "5564638371974175853",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x2c5cd47e355d3417a7f04a6dee7deef6043d9b87",
+    "startBalance": "15421264361766705307",
+    "expectedAmount": "2500000000000000000",
+    "endBalance": "17921264361766705307",
+    "calculatedEnd": "17921264361766705307",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x1e8c774568052242d6865d494e4edafb445ccaa9",
+    "startBalance": "0",
+    "expectedAmount": "2500000000000000000",
+    "endBalance": "2500000000000000000",
+    "calculatedEnd": "2500000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x091626a6f781db8da5f5866c6475d2db59540d3f",
+    "startBalance": "0",
+    "expectedAmount": "2500000000000000000",
+    "endBalance": "2500000000000000000",
+    "calculatedEnd": "2500000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x1e2cee9334756f3bfdb5af39f8b065d64baaf905",
+    "startBalance": "0",
+    "expectedAmount": "2100000000000000000",
+    "endBalance": "2100000000000000000",
+    "calculatedEnd": "2100000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xb1887622349e905dee0c1ee6a95b894a313750bb",
+    "startBalance": "0",
+    "expectedAmount": "1900000000000000000",
+    "endBalance": "1900000000000000000",
+    "calculatedEnd": "1900000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x16129da7efd22c34364750723a31c9b90229bb76",
+    "startBalance": "0",
+    "expectedAmount": "1800000000000000000",
+    "endBalance": "1800000000000000000",
+    "calculatedEnd": "1800000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xe7a2adcf00bc24aa8cef9d38cee5fd82f42dc66f",
+    "startBalance": "0",
+    "expectedAmount": "1700000000000000000",
+    "endBalance": "1700000000000000000",
+    "calculatedEnd": "1700000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xbc1c4ae2ca278c48fd54e9c5c47e728e0ff7f480",
+    "startBalance": "0",
+    "expectedAmount": "1700000000000000000",
+    "endBalance": "1700000000000000000",
+    "calculatedEnd": "1700000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xa8013b0b030177c54697e8f117e55262d036cbe5",
+    "startBalance": "0",
+    "expectedAmount": "1700000000000000000",
+    "endBalance": "1700000000000000000",
+    "calculatedEnd": "1700000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x3beb5e96c21fee32c43bed747dc1fc4e57c5594e",
+    "startBalance": "300000000000000000",
+    "expectedAmount": "1700000000000000000",
+    "endBalance": "2000000000000000000",
+    "calculatedEnd": "2000000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x3637eeca010d66827bbb8bc04f32e609e478bc73",
+    "startBalance": "0",
+    "expectedAmount": "1700000000000000000",
+    "endBalance": "1700000000000000000",
+    "calculatedEnd": "1700000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x26f49b55ff99f64aad7b472ffafe00e0f5ba81dd",
+    "startBalance": "0",
+    "expectedAmount": "1700000000000000000",
+    "endBalance": "1700000000000000000",
+    "calculatedEnd": "1700000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x0afa66cf512110892c57834a8918046c44671cea",
+    "startBalance": "114000000000000000000",
+    "expectedAmount": "1700000000000000000",
+    "endBalance": "115700000000000000000",
+    "calculatedEnd": "115700000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xfa123fd0dc1e118dfe43641efa0d2329e39df4db",
+    "startBalance": "0",
+    "expectedAmount": "1000000000000000000",
+    "endBalance": "1000000000000000000",
+    "calculatedEnd": "1000000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x87b4340a3fd291c91d4ac94affabdcd78bae7d48",
+    "startBalance": "0",
+    "expectedAmount": "800000000000000000",
+    "endBalance": "800000000000000000",
+    "calculatedEnd": "800000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x815d8dc8d1e46d1a1bfb084066f2a7db16fa362e",
+    "startBalance": "0",
+    "expectedAmount": "800000000000000000",
+    "endBalance": "800000000000000000",
+    "calculatedEnd": "800000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x7a1c9c8cf7c3a0e898c160419951338576aeee2a",
+    "startBalance": "0",
+    "expectedAmount": "800000000000000000",
+    "endBalance": "800000000000000000",
+    "calculatedEnd": "800000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x56791070afa4dc290877587997190618041b2f60",
+    "startBalance": "0",
+    "expectedAmount": "200000000000000000",
+    "endBalance": "200000000000000000",
+    "calculatedEnd": "200000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xebf4c07c94cb57337bf68918b36f0d110f8b191b",
+    "startBalance": "0",
+    "expectedAmount": "100000000000000000",
+    "endBalance": "100000000000000000",
+    "calculatedEnd": "100000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0xa3724f5e67572557531a33f0578575693319495f",
+    "startBalance": "0",
+    "expectedAmount": "100000000000000000",
+    "endBalance": "100000000000000000",
+    "calculatedEnd": "100000000000000000",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x605bdc00f90c336a9b9d76c2c2a33b91f9fa3c34",
+    "startBalance": "596093988356427585",
+    "expectedAmount": "100000000000000000",
+    "endBalance": "696093988356427585",
+    "calculatedEnd": "696093988356427585",
+    "matches": true,
+    "difference": null
+  },
+  {
+    "address": "0x2e52d8aea7571c5e7500728045916a3d49b2df74",
+    "startBalance": "0",
+    "expectedAmount": "100000000000000000",
+    "endBalance": "100000000000000000",
+    "calculatedEnd": "100000000000000000",
+    "matches": true,
+    "difference": null
+  }
+]

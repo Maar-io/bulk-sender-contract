@@ -63,18 +63,17 @@ async function processSingleBatch(
     console.log(`📊 Estimated gas: ${gasEstimate}`);
 
     // 3. Execute the transaction
-    // console.log("📤 Executing transaction...");
-    // const hash = await bulkSenderContract.write.bulkSendERC20Different([
-    //   tokenContract.address,
-    //   recipients,
-    //   amounts,
-    // ], { 
-    //   account: signer.account,
-    //   gas: gasEstimate + (gasEstimate / 10n) // Add 10% buffer
-    // });
+    console.log("📤 Executing transaction...");
+    const hash = await bulkSenderContract.write.bulkSendERC20Different([
+      tokenContract.address,
+      recipients,
+      amounts,
+    ], { 
+      account: signer.account,
+      gas: gasEstimate + (gasEstimate / 10n) // Add 10% buffer
+    });
 
-    // console.log(`🎉 Batch ${batchNumber} transaction sent: ${hash}`);
-    console.log(`🎉 Batch ${batchNumber} sent`);
+    console.log(`🎉 Batch ${batchNumber} transaction sent: ${hash}`);
     
     // Wait for confirmation and verify transfers
     await verifyBatchTransfers(verificationData, tokenContract, batchNumber);
@@ -98,7 +97,7 @@ async function prepareVerificationData(
 ): Promise<VerificationEntry[]> {
   // Calculate 10% of recipients, minimum 1, maximum 10 for fast verification
   const tenPercent = Math.ceil(recipients.length * 0.1);
-  const samplesToCheck = Math.max(1, Math.min(tenPercent, 10));
+  const samplesToCheck = Math.max(1, Math.min(tenPercent, 50));
   
   console.log(`📋 Pre-selecting ${samplesToCheck} addresses for verification (${Math.round((samplesToCheck / recipients.length) * 100)}% of batch)...`);
   
@@ -133,17 +132,36 @@ async function verifyBatchTransfers(
 ) {
   console.log(`🔍 Verifying ${verificationData.length} pre-selected recipients...`);
   
+  let successCount = 0;
+  let failureCount = 0;
+  
   for (const entry of verificationData) {
-    const currentBalance = await tokenContract.read.balanceOf([entry.address]);
-    const actualIncrease = currentBalance - entry.initialBalance;
-    
-    if (actualIncrease === entry.expectedAmount) {
-      console.log(`✅ ${entry.address}: ${entry.initialBalance} → ${currentBalance} (+${actualIncrease})`);
-    } else {
-      console.log(`❌ ${entry.address}: Expected +${entry.expectedAmount}, Got +${actualIncrease}`);
-      throw new Error(`Transfer verification failed for ${entry.address}`);
+    try {
+      const currentBalance = await tokenContract.read.balanceOf([entry.address]);
+      const actualIncrease = currentBalance - entry.initialBalance;
+      
+      if (actualIncrease === entry.expectedAmount) {
+        console.log(`✅ ${entry.address}: ${entry.initialBalance} → ${currentBalance} (+${actualIncrease})`);
+        successCount++;
+      } else {
+        console.log(`❌ ${entry.address}: Expected +${entry.expectedAmount}, Got +${actualIncrease}`);
+        failureCount++;
+      }
+    } catch (error) {
+      console.log(`❌ ${entry.address}: Error reading balance - ${error}`);
+      failureCount++;
     }
   }
   
-  console.log(`✅ Batch ${batchNumber} verification completed successfully`);
+  // Summary
+  console.log(`\n📊 Batch ${batchNumber} verification summary:`);
+  console.log(`   ✅ Successful verifications: ${successCount}`);
+  console.log(`   ❌ Failed verifications: ${failureCount}`);
+  console.log(`   📈 Success rate: ${((successCount / verificationData.length) * 100).toFixed(1)}%`);
+  
+  if (failureCount === 0) {
+    console.log(`✅ Batch ${batchNumber} verification completed successfully`);
+  } else {
+    console.log(`⚠️  Batch ${batchNumber} verification completed with ${failureCount} failures`);
+  }
 }

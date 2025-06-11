@@ -1,3 +1,4 @@
+// npx ts-node scripts/read-balance-soneium.ts
 import { createPublicClient, http, formatUnits } from 'viem';
 import { soneium } from 'viem/chains';
 import * as fs from 'fs';
