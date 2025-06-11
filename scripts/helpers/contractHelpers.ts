@@ -1,20 +1,25 @@
 import hre from "hardhat";
+import { getContract } from "viem";
 import ERC20Artifact from "../../artifacts/@openzeppelin/contracts/token/ERC20/ERC20.sol/ERC20.json";
 import BulkSenderArtifact from "../../artifacts/contracts/BulkSender.sol/BulkSender.json";
 
 export async function getContractInstances(tokenAddress: string, bulkSenderAddress: string) {
-  const [signer] = await hre.viem.getWalletClients();
+  const publicClient = await hre.viem.getPublicClient();
+  const [walletClient] = await hre.viem.getWalletClients();
   
-  const tokenContract = await hre.viem.getContractAt(
-    JSON.stringify(ERC20Artifact.abi),
-    tokenAddress as `0x${string}`);
+  const tokenContract = getContract({
+    address: tokenAddress as `0x${string}`,
+    abi: ERC20Artifact.abi,
+    client: { public: publicClient, wallet: walletClient }
+  });
 
+  const bulkSenderContract = getContract({
+    address: bulkSenderAddress as `0x${string}`,
+    abi: BulkSenderArtifact.abi,
+    client: { public: publicClient, wallet: walletClient }
+  });
 
-  const bulkSenderContract = await hre.viem.getContractAt(
-    JSON.stringify(BulkSenderArtifact.abi),
-    bulkSenderAddress as `0x${string}`);
-
-  return { tokenContract, bulkSenderContract, signer };
+  return { tokenContract, bulkSenderContract, signer: walletClient };
 }
 
 export async function validateEnvironment(config: any) {
