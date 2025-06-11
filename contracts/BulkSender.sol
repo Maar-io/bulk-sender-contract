@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.28;
 
-import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
+import {IERC20, SafeERC20} from "@openzeppelin/contracts/token/ERC20/utils/SafeERC20.sol";
 import "@openzeppelin/contracts/token/ERC721/IERC721.sol";
 import "@openzeppelin/contracts/token/ERC1155/IERC1155.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
@@ -13,6 +13,8 @@ import "@openzeppelin/contracts/utils/Pausable.sol";
  * @dev Contract for bulk sending ERC20, ERC721, and ERC1155 tokens
  */
 contract BulkSender is Ownable, ReentrancyGuard, Pausable {
+    using SafeERC20 for IERC20;
+
     // State variables
     uint256 public recipientLimit = 200; // Default limit
     
@@ -59,25 +61,22 @@ contract BulkSender is Ownable, ReentrancyGuard, Pausable {
         address[] calldata recipients,
         uint256 amount
     ) external payable nonReentrant whenNotPaused validArrayLength(recipients.length) {
-        require(token != address(0), "BulkSender: Invalid token address");
         require(amount > 0, "BulkSender: Amount must be greater than 0");
-                
-        IERC20 erc20Token = IERC20(token);
+        
         uint256 totalAmount = amount * recipients.length;
         
+        // Validate transfer prerequisites
+        _validateERC20Transfer(token, msg.sender, totalAmount);
+        
+        IERC20 erc20Token = IERC20(token);
+        
         // Transfer total amount from sender to this contract
-        require(
-            erc20Token.transferFrom(msg.sender, address(this), totalAmount),
-            "BulkSender: Transfer to contract failed"
-        );
+        erc20Token.safeTransferFrom(msg.sender, address(this), totalAmount);
         
         // Distribute to recipients
         for (uint256 i = 0; i < recipients.length; i++) {
             require(recipients[i] != address(0), "BulkSender: Invalid recipient");
-            require(
-                erc20Token.transfer(recipients[i], amount),
-                "BulkSender: Transfer to recipient failed"
-            );
+            erc20Token.safeTransfer(recipients[i], amount);
         }
         
         emit BulkERC20Transfer(token, msg.sender, totalAmount, recipients.length);
@@ -91,31 +90,28 @@ contract BulkSender is Ownable, ReentrancyGuard, Pausable {
         address[] calldata recipients,
         uint256[] calldata amounts
     ) external payable nonReentrant whenNotPaused validArrayLength(recipients.length) {
-        require(token != address(0), "BulkSender: Invalid token address");
         require(recipients.length == amounts.length, "BulkSender: Array length mismatch");
-                
-        IERC20 erc20Token = IERC20(token);
+        
         uint256 totalAmount = 0;
         
-        // Calculate total amount
+        // Calculate total amount and validate individual amounts
         for (uint256 i = 0; i < amounts.length; i++) {
             require(amounts[i] > 0, "BulkSender: Amount must be greater than 0");
             totalAmount += amounts[i];
         }
         
+        // Validate transfer prerequisites
+        _validateERC20Transfer(token, msg.sender, totalAmount);
+        
+        IERC20 erc20Token = IERC20(token);
+        
         // Transfer total amount from sender to this contract
-        require(
-            erc20Token.transferFrom(msg.sender, address(this), totalAmount),
-            "BulkSender: Transfer to contract failed"
-        );
+        erc20Token.safeTransferFrom(msg.sender, address(this), totalAmount);
         
         // Distribute to recipients
         for (uint256 i = 0; i < recipients.length; i++) {
             require(recipients[i] != address(0), "BulkSender: Invalid recipient");
-            require(
-                erc20Token.transfer(recipients[i], amounts[i]),
-                "BulkSender: Transfer to recipient failed"
-            );
+            erc20Token.safeTransfer(recipients[i], amounts[i]);
         }
         
         emit BulkERC20Transfer(token, msg.sender, totalAmount, recipients.length);
@@ -216,7 +212,7 @@ contract BulkSender is Ownable, ReentrancyGuard, Pausable {
             require(success, "BulkSender: ETH withdrawal failed");
         } else {
             // Withdraw ERC20 tokens
-            IERC20(token).transfer(to, amount);
+            IERC20(token).safeTransfer(to, amount);
         }
     }
     
@@ -286,6 +282,28 @@ contract BulkSender is Ownable, ReentrancyGuard, Pausable {
         }
         
         emit BulkERC1155Transfer(token, msg.sender, tokenIds, amounts, recipients);
+    }
+
+    /**
+     * @dev Validate ERC20 token transfer prerequisites
+     */
+    function _validateERC20Transfer(
+        address token,
+        address sender,
+        uint256 totalAmount
+    ) internal view {
+        require(token != address(0), "BulkSender: Invalid token address");
+        require(totalAmount > 0, "BulkSender: Total amount must be greater than 0");
+        
+        IERC20 erc20Token = IERC20(token);
+        
+        // Check allowance
+        uint256 allowance = erc20Token.allowance(sender, address(this));
+        require(allowance >= totalAmount, "BulkSender: Insufficient allowance");
+        
+        // Check balance
+        uint256 senderBalance = erc20Token.balanceOf(sender);
+        require(senderBalance >= totalAmount, "BulkSender: Insufficient balance");
     }
     
     // Receive function to accept ETH

@@ -10,7 +10,7 @@ export const deployTokenFixture = async () => {
   const publicClient = await hre.viem.getPublicClient();
 
   // Deploy the contracts
-  const AstrToken = await hre.viem.deployContract("MockERC20", [
+  const AstrToken = await hre.viem.deployContract("ERC20example", [
     "ASTR",
     "ASTR",
     1000000000n

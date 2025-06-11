@@ -28,9 +28,7 @@ interface IBulkSender {
         uint256[] amounts,
         address[] recipients
     );
-    
-    event FeePaid(address indexed payer, uint256 amount);
-    
+        
     // No structs needed for simplified interface
     
     // ERC20 Bulk Operations
@@ -105,29 +103,6 @@ interface IBulkSender {
     ) external payable;
     
     // Administrative functions
-    /**
-     * @dev Set the fee for using the bulk sender (only owner)
-     * @param newFee New fee amount in wei
-     */
-    function setFee(uint256 newFee) external;
-    
-    /**
-     * @dev Get current fee amount
-     * @return Current fee in wei
-     */
-    function getFee() external view returns (uint256);
-    
-    /**
-     * @dev Withdraw collected fees (only owner)
-     * @param to Address to send fees to
-     */
-    function withdrawFees(address payable to) external;
-    
-    /**
-     * @dev Get total collected fees
-     * @return Total fees collected
-     */
-    function getCollectedFees() external view returns (uint256);
     
     /**
      * @dev Set the maximum number of recipients per bulk call (only owner)
